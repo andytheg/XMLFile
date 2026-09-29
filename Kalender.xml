@@ -1,0 +1,1868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Calendar version="2.6_svn31">
+  <Config>
+    <DefaultView>2</DefaultView>
+    <SpecialDaysID>1045569</SpecialDaysID>
+    <Style>3</Style>
+    <Color r="128" g="222" b="188">0</Color>
+    <Color r="128" g="226" b="170">1</Color>
+    <Color r="128" g="160" b="132">2</Color>
+  </Config>
+  <Events>
+    <Event ID="0" date="8.10.2022">test</Event>
+    <Event ID="1" date="16.10.2022">Andy</Event>
+    <Event ID="3" date="9.10.2022">morgen gehst du in dalbendych</Event>
+    <Event ID="4" date="3.10.2022">war nicht im bsb</Event>
+    <Event ID="5" date="4.10.2022">war nicht im bsbs</Event>
+    <Event ID="6" date="5.10.2022">war jetzt im bsb</Event>
+    <Event ID="7" date="6.10.2022">war im bsb</Event>
+    <Event ID="8" date="7.10.2022">war im bsb</Event>
+    <Event ID="9" date="10.10.2022">Frau Kanyar anrufen</Event>
+    <Event ID="10" date="11.10.2022">doris 75 geurtstag</Event>
+    <Event ID="12" date="11.10.2022">Blumen kaufen und sonst?</Event>
+    <Event ID="13" date="11.10.2022">10.00 REHAB Termin</Event>
+    <Event ID="14" date="10.10.2022">200 Franken erhalten von stell</Event>
+    <Event ID="11" date="11.10.2022">um 17.00 sutter gemacht und ke</Event>
+    <Event ID="15" date="11.10.2022">rehab abgesagt</Event>
+    <Event ID="16" date="19.10.2022">rehab termin10.15</Event>
+    <Event ID="17" date="12.10.2022">Evelyn Parüf gegeben wert 120</Event>
+    <Event ID="18" date="13.10.2022">Freiertag coden</Event>
+    <Event ID="19" date="13.10.2022">Spitex abgesagt</Event>
+    <Event ID="20" date="12.10.2022">mache stuhlgang um 21.0</Event>
+    <Event ID="21" date="13.10.2022">Kontostand 27.-</Event>
+    <Event ID="22" date="13.10.2022">mathias brauch 30</Event>
+    <Event ID="23" date="13.10.2022">380.- Franken Kanyar erhalten</Event>
+    <Event ID="24" date="13.10.2022">doris hat mir 12 franken gegeb</Event>
+    <Event ID="25" date="14.10.2022">neue kopfhörer gekauft 21.90</Event>
+    <Event ID="26" date="14.10.2022">stuhlgang nein</Event>
+    <Event ID="27" date="15.10.2022">T-Shirt gekauft Ev 19.90</Event>
+    <Event ID="28" date="15.10.2022">140 Franken Ev</Event>
+    <Event ID="29" date="16.10.2022">Ev 140 Franken gegeben</Event>
+    <Event ID="30" date="16.10.2022">Doris war 1 stunde hier</Event>
+    <Event ID="31" date="20.10.2022">heute frei frau kanyar um geld</Event>
+    <Event ID="32" date="15.3.2024">ich habe ein durcheinander!</Event>
+    <Event ID="33" date="15.3.2024">gearbeitet 13 - 16:00</Event>
+    <Event ID="34" date="15.3.2024">hasbleidy 250.-</Event>
+    <Event ID="35" date="16.3.2024">gute spitex</Event>
+    <Event ID="36" date="16.3.2024">ticket fcb wintertuhr</Event>
+    <Event ID="37" date="16.3.2024">1-1</Event>
+    <Event ID="38" date="16.3.2024">mit dogan und webergasse</Event>
+    <Event ID="39" date="16.3.2024">er bwar sehr geschlagen</Event>
+    <Event ID="40" date="17.3.2024">mathias war bei mir 20:00</Event>
+    <Event ID="41" date="17.3.2024">doris 17:00 bei mir</Event>
+    <Event ID="42" date="17.3.2024">finanzen 120.-</Event>
+    <Event ID="43" date="18.3.2024">arbeiten normal</Event>
+    <Event ID="44" date="22.3.2024">rehab urologie 11:00</Event>
+    <Event ID="45" date="18.3.2024">surface laptop verloren</Event>
+    <Event ID="46" date="11.3.2024">300 für pc erhalten</Event>
+    <Event ID="47" date="14.3.2024">Desktop PC erhalten</Event>
+    <Event ID="48" date="14.3.2024">80 gekostet</Event>
+    <Event ID="49" date="19.3.2024">normal arbeit pünktlich</Event>
+    <Event ID="50" date="19.3.2024">doris expresso claraplatz</Event>
+    <Event ID="51" date="19.3.2024">geld betelln</Event>
+    <Event ID="52" date="20.3.2024">dogan 18:00</Event>
+    <Event ID="53" date="21.3.2024">heute frei</Event>
+    <Event ID="54" date="21.3.2024">400 franken erhalten</Event>
+    <Event ID="55" date="21.3.2024">Has 220.- geschickt</Event>
+    <Event ID="56" date="21.3.2024">rechnung mobile up denken</Event>
+    <Event ID="57" date="22.3.2024">war dort püntlich</Event>
+    <Event ID="58" date="22.3.2024">arbeit normal</Event>
+    <Event ID="59" date="26.3.2024">zuhause geblieben</Event>
+    <Event ID="60" date="28.3.2024">sahb rollstuhl 10:00</Event>
+    <Event ID="61" date="27.3.2024">dogan 17:30</Event>
+    <Event ID="62" date="28.3.2024">nicht gekommem</Event>
+    <Event ID="63" date="28.3.2024">doris gesehen</Event>
+    <Event ID="64" date="28.3.2024">müde</Event>
+    <Event ID="65" date="29.3.2024">heute ostern</Event>
+    <Event ID="66" date="29.3.2024">doris hat mich besucht</Event>
+    <Event ID="67" date="29.3.2024">allle festplatten kontrole</Event>
+    <Event ID="68" date="25.3.2024">masrekarte 18,.</Event>
+    <Event ID="69" date="29.3.2024">Ausgabe 7.- ° 10,. e ziggi</Event>
+    <Event ID="70" date="30.3.2024">mit dogan 18:00 claraplatz</Event>
+    <Event ID="71" date="30.3.2024">FCB - ZH 20:30</Event>
+    <Event ID="72" date="30.3.2024">bin erschäpft und vergesslich</Event>
+    <Event ID="73" date="30.3.2024">2-2</Event>
+    <Event ID="74" date="30.3.2024">dogi david mike grotto 10:20</Event>
+    <Event ID="75" date="30.3.2024">dom rep frau nix</Event>
+    <Event ID="76" date="31.3.2024">Uhr neu kaen</Event>
+    <Event ID="77" date="31.3.2024">11:10 Badischer Banhof</Event>
+    <Event ID="78" date="31.3.2024">14:00 ins bett</Event>
+    <Event ID="79" date="31.3.2024">in nachdenklich</Event>
+    <Event ID="80" date="1.4.2024">Frei alles geschlossen</Event>
+    <Event ID="81" date="19.4.2024">urologie 10:00 REHAB</Event>
+    <Event ID="82" date="12.4.2024">Ausflug Europapark 8:00 bsb</Event>
+    <Event ID="83" date="4.4.2024">heute arbeiten gegangen</Event>
+    <Event ID="84" date="4.4.2024">mit dogan claraplatz</Event>
+    <Event ID="85" date="4.4.2024">war schnell bis 20:05</Event>
+    <Event ID="86" date="4.4.2024">weed 4 mal</Event>
+    <Event ID="87" date="3.4.2024">krank viel schlafen</Event>
+    <Event ID="88" date="2.4.2024">arbeiten , andreas</Event>
+    <Event ID="89" date="5.4.2024">areiten gegangen pünktlich</Event>
+    <Event ID="90" date="5.4.2024">send email c# super geht</Event>
+    <Event ID="91" date="5.4.2024">email miz pic senden</Event>
+    <Event ID="92" date="5.4.2024">bin extrem vergässlich</Event>
+    <Event ID="93" date="6.4.2024">am morgen frau schweizer</Event>
+    <Event ID="94" date="6.4.2024">sehr gut</Event>
+    <Event ID="95" date="6.4.2024">18:00 Dogan</Event>
+    <Event ID="96" date="8.4.2024">earbeitet normal</Event>
+    <Event ID="97" date="9.4.2024">Sr. gärtner war bei mir</Event>
+    <Event ID="98" date="9.4.2024">formular ausgefüllt rollstuhl</Event>
+    <Event ID="99" date="9.4.2024">mache frei</Event>
+    <Event ID="100" date="11.4.2024">arbeiten normal 10 min soät</Event>
+    <Event ID="101" date="10.4.2024">arbeiten normal</Event>
+    <Event ID="102" date="11.4.2024">18:00 digan nixviel</Event>
+    <Event ID="103" date="11.4.2024">BTB Taxi bestellt</Event>
+    <Event ID="104" date="12.4.2024">BTB 07:00</Event>
+    <Event ID="105" date="11.4.2024">extrem träume</Event>
+    <Event ID="106" date="12.4.2024">habe extrem verschlafen</Event>
+    <Event ID="107" date="12.4.2024">8:20 gearbeitet</Event>
+    <Event ID="108" date="12.4.2024">bis 12:00</Event>
+    <Event ID="109" date="12.4.2024">nachmittag claraplatz</Event>
+    <Event ID="110" date="12.4.2024">bis 20:30</Event>
+    <Event ID="111" date="12.4.2024">op 900.- marga</Event>
+    <Event ID="112" date="13.4.2024">heute genau planen was brauche</Event>
+    <Event ID="113" date="13.4.2024">in der nacht nicht geschlaf</Event>
+    <Event ID="114" date="13.4.2024">dogan?</Event>
+    <Event ID="115" date="13.4.2024">heini beatenberg</Event>
+    <Event ID="116" date="14.4.2024">heini beatenberg</Event>
+    <Event ID="117" date="14.4.2024">FCB-Servett 14:15</Event>
+    <Event ID="118" date="15.4.2024">normal arbeiten</Event>
+    <Event ID="119" date="15.4.2024">doris 19:00 wettsteibnplatz</Event>
+    <Event ID="120" date="16.4.2024">normal arbeiten</Event>
+    <Event ID="121" date="16.4.2024">18:00 dogan champions leauge</Event>
+    <Event ID="122" date="17.4.2024">normal arbeiten</Event>
+    <Event ID="123" date="17.4.2024">margarita sauer op</Event>
+    <Event ID="124" date="18.4.2024">11:30 urologie untersuchung</Event>
+    <Event ID="125" date="19.4.2024">gestricchen</Event>
+    <Event ID="126" date="18.4.2024">untersuchung war gut</Event>
+    <Event ID="127" date="18.4.2024">normal arbeiten</Event>
+    <Event ID="128" date="19.4.2024">heute medikamente geholt</Event>
+    <Event ID="129" date="19.4.2024">bobby tierheim geholt</Event>
+    <Event ID="130" date="19.4.2024">135 franken gezahlt</Event>
+    <Event ID="131" date="19.4.2024">doris zuhause gewartet</Event>
+    <Event ID="132" date="19.4.2024">sie ist schwierig</Event>
+    <Event ID="133" date="26.4.2024">Ihr Termin bei Ovidiu Ciobanu</Event>
+    <Event ID="134" date="26.4.2024">untere rebgasse 10</Event>
+    <Event ID="135" date="26.4.2024">16.30 h</Event>
+    <Event ID="136" date="22.4.2024">normal arbeit</Event>
+    <Event ID="137" date="23.4.2024">normal arbeit</Event>
+    <Event ID="138" date="23.4.2024">200 franken erhalten</Event>
+    <Event ID="139" date="24.4.2024">11:30 tierarzt</Event>
+    <Event ID="140" date="24.4.2024">gegangen alles gemacht</Event>
+    <Event ID="141" date="24.4.2024">250.- Franken rechnung</Event>
+    <Event ID="142" date="25.4.2024">am morgen nuR putzfrau</Event>
+    <Event ID="143" date="25.4.2024">SIE HAT VERGESSEN SCHLÜSEL BK</Event>
+    <Event ID="144" date="25.4.2024">goldene hände gemeldet</Event>
+    <Event ID="145" date="25.4.2024">viel stuhlgang im bett</Event>
+    <Event ID="146" date="25.4.2024">viel gepuzt</Event>
+    <Event ID="147" date="26.4.2024">bis 12:30 geschlafen</Event>
+    <Event ID="148" date="26.4.2024">angerufen abgesagt</Event>
+    <Event ID="149" date="26.4.2024">18:00 Claraplatz</Event>
+    <Event ID="150" date="26.4.2024">20 nachhause</Event>
+    <Event ID="151" date="27.4.2024">mit doga ud hassan</Event>
+    <Event ID="152" date="27.4.2024">am rhein bis 22:00</Event>
+    <Event ID="153" date="28.4.2024">zuhause alleine</Event>
+    <Event ID="154" date="28.4.2024">extrem vergesslich</Event>
+    <Event ID="155" date="30.5.2024">gebursttg 44 andy</Event>
+    <Event ID="156" date="26.4.2024">hasbeidy 200 franken</Event>
+    <Event ID="157" date="26.4.2024">börek gegessen 8.-</Event>
+    <Event ID="158" date="29.4.2024">psychologin schreiben</Event>
+    <Event ID="159" date="28.4.2024">win for life 5 srf verloren</Event>
+    <Event ID="160" date="29.4.2024">normal arbeit</Event>
+    <Event ID="161" date="29.4.2024">dogan 17:45</Event>
+    <Event ID="162" date="29.4.2024">kurz im grotto</Event>
+    <Event ID="163" date="29.4.2024">Mathias Geburstag</Event>
+    <Event ID="164" date="29.4.2024">bei mir 20 mit daniel</Event>
+    <Event ID="165" date="29.4.2024">hasblidy</Event>
+    <Event ID="166" date="2.5.2024">nicht arbeiten gegangen frei</Event>
+    <Event ID="167" date="2.5.2024">geputzt und viel geräumt</Event>
+    <Event ID="168" date="2.5.2024">dogan bei mir europa lige halb</Event>
+    <Event ID="169" date="1.5.2024">champions leauge dort - paris</Event>
+    <Event ID="170" date="30.4.2024">bayern real madrid zuhause</Event>
+    <Event ID="171" date="30.4.2024">arbeit</Event>
+    <Event ID="172" date="3.5.2024">gearbeitet</Event>
+    <Event ID="173" date="3.5.2024">19:00 dog grotto 22:00 zuhau</Event>
+    <Event ID="174" date="4.5.2024">bis 15:00 geschlafen</Event>
+    <Event ID="175" date="4.5.2024">17:30 dog und da nix</Event>
+    <Event ID="176" date="3.5.2024">sehr viel stuhlgang</Event>
+    <Event ID="177" date="5.5.2024">email with attachment gemacht</Event>
+    <Event ID="178" date="5.5.2024">FCB - Lizern 1-1 TV</Event>
+    <Event ID="179" date="5.5.2024">zuhause geblieben</Event>
+    <Event ID="180" date="8.5.2024">Spektrum geschlossen</Event>
+    <Event ID="181" date="9.5.2024">Aufahrt geschlossen</Event>
+    <Event ID="182" date="10.5.2024">Spektrum geschlossen</Event>
+    <Event ID="183" date="21.5.2024">REHAB Urologie 14:15</Event>
+    <Event ID="184" date="6.5.2024">arbeiten normal</Event>
+    <Event ID="185" date="6.5.2024">7 uhr aufgewacht</Event>
+    <Event ID="186" date="7.5.2024">normal gearbeitet</Event>
+    <Event ID="187" date="7.5.2024">doris kurz manor</Event>
+    <Event ID="188" date="7.5.2024">dogan champions leauge geschau</Event>
+    <Event ID="189" date="7.5.2024">hp patrone genommen</Event>
+    <Event ID="190" date="9.5.2024">freier tag. mach etwas</Event>
+    <Event ID="191" date="11.5.2024">war vollkommen plan lose</Event>
+    <Event ID="192" date="11.5.2024">60 franken magarita</Event>
+    <Event ID="193" date="10.5.2024">microsoft surface mit w10</Event>
+    <Event ID="194" date="11.5.2024">Mit Simon Wettsteinplatz</Event>
+    <Event ID="195" date="11.5.2024">Eingeladen für Flammenkuchen</Event>
+    <Event ID="196" date="11.5.2024">abend dogan claraplatz</Event>
+    <Event ID="197" date="11.5.2024">20 fr gegeben</Event>
+    <Event ID="198" date="12.5.2024">nix</Event>
+    <Event ID="199" date="13.5.2024">heute arbeiten</Event>
+    <Event ID="200" date="13.5.2024">propleme dogan zuviel</Event>
+    <Event ID="201" date="13.5.2024">mathias 20:00 bei mir</Event>
+    <Event ID="202" date="13.5.2024">daniel komisch</Event>
+    <Event ID="203" date="15.5.2024">heute gearbeitet</Event>
+    <Event ID="204" date="15.5.2024">heini tibits 18:00</Event>
+    <Event ID="205" date="15.5.2024">zu kurz brachte nix</Event>
+    <Event ID="206" date="16.5.2024">frei</Event>
+    <Event ID="207" date="24.5.2024">Lukas geburtstag</Event>
+    <Event ID="208" date="14.5.2024">doris spät bei mir 90 sfr</Event>
+    <Event ID="209" date="14.5.2024">380 erhalten</Event>
+    <Event ID="210" date="16.5.2024">heute nur putzfrau da gewesen</Event>
+    <Event ID="211" date="16.5.2024">Microsoft Surface win 11 erhal</Event>
+    <Event ID="212" date="16.5.2024">bin immer im ducheinander</Event>
+    <Event ID="213" date="16.5.2024">post 40 überwiesen</Event>
+    <Event ID="214" date="17.5.2024">sehr langsam gearbeitet viel g</Event>
+    <Event ID="215" date="16.5.2024" endDate="17.5.2024">doris bis 19_00 in restaurant</Event>
+    <Event ID="216" date="18.5.2024">heute frei</Event>
+    <Event ID="217" date="18.5.2024">bkb vormular unterschrieben</Event>
+    <Event ID="218" date="18.5.2024">in briefkasten ozmen</Event>
+    <Event ID="219" date="18.5.2024">fcb -gc 18.00</Event>
+    <Event ID="220" date="18.5.2024">eingekauft 25 sf</Event>
+    <Event ID="221" date="18.5.2024">10 fr mastercard</Event>
+    <Event ID="222" date="19.5.2024">zuhue sehr kaputt</Event>
+    <Event ID="223" date="19.5.2024">miniport hdmi bestellt 11.90</Event>
+    <Event ID="224" date="20.5.2024">heute keine arbeit</Event>
+    <Event ID="225" date="20.5.2024">doris pizza essen 17:00 - 19:0</Event>
+    <Event ID="226" date="20.5.2024">heini 11:00 verpasst</Event>
+    <Event ID="227" date="22.5.2024">Heini TIBITS 18:00</Event>
+    <Event ID="228" date="21.5.2024">urinschlauch getauscht</Event>
+    <Event ID="229" date="21.5.2024">gearbeitet</Event>
+    <Event ID="230" date="21.5.2024">polizei abfall nicht abgenomme</Event>
+    <Event ID="231" date="21.5.2024">morgen nach aufachen anrufen</Event>
+    <Event ID="232" date="22.5.2024">plan machen für Kanyar</Event>
+    <Event ID="233" date="23.5.2024">Kanyar anufen</Event>
+    <Event ID="234" date="22.5.2024">IV und SAHB anrufen</Event>
+    <Event ID="235" date="22.5.2024">Heini getroffe keine rfolg</Event>
+    <Event ID="236" date="22.5.2024">bis 14:00 geschlafen</Event>
+    <Event ID="237" date="23.5.2024">iv und sahb anrufen</Event>
+    <Event ID="238" date="23.5.2024">aebeite gegagen</Event>
+    <Event ID="239" date="23.5.2024">iv bief eraen</Event>
+    <Event ID="240" date="23.5.2024">mss bedingasruhen</Event>
+    <Event ID="241" date="25.5.2024">gut geschlafen</Event>
+    <Event ID="242" date="25.5.2024">am morgen frau schweizer</Event>
+    <Event ID="243" date="25.5.2024">zigaretten gekauft 11:00</Event>
+    <Event ID="244" date="25.5.2024">2 stunden bett 11:30</Event>
+    <Event ID="245" date="27.5.2024">gearbeitet normal</Event>
+    <Event ID="246" date="27.5.2024">ziel immer festlegen Telefonbu</Event>
+    <Event ID="247" date="28.5.2024">normal gearbeitet</Event>
+    <Event ID="248" date="28.5.2024">benutze neuer laptop bitte</Event>
+    <Event ID="249" date="28.5.2024">WU gegange marga</Event>
+    <Event ID="1" date="16.10.2024">Andy</Event>
+    <Event ID="2" date="29.5.2024">test</Event>
+    <Event ID="6" date="29.5.2024">test</Event>
+    <Event ID="250" date="30.5.2024">200 sfr geschenk</Event>
+    <Event ID="251" date="13.6.2024">rehab 15:30 urologie</Event>
+    <Event ID="252" date="31.5.2024">normal arbeiten</Event>
+    <Event ID="253" date="31.5.2024">mathias und doris bei mir 19:0</Event>
+    <Event ID="254" date="3.6.2024">Ferien</Event>
+    <Event ID="255" date="4.6.2024">Ferien</Event>
+    <Event ID="256" date="5.6.2024">Ferien</Event>
+    <Event ID="257" date="6.6.2024">Ferien</Event>
+    <Event ID="258" date="7.6.2024">Ferien</Event>
+    <Event ID="259" date="1.6.2024">nur alleine</Event>
+    <Event ID="260" date="1.6.2024">champions leauge bvb-madrid 0:</Event>
+    <Event ID="261" date="4.6.2024">Heute Frau Schweizer verband</Event>
+    <Event ID="262" date="4.6.2024">Birsfelden Posteinzahlung</Event>
+    <Event ID="263" date="4.6.2024">120 Has</Event>
+    <Event ID="264" date="4.6.2024">neu iPhone usb kabel</Event>
+    <Event ID="265" date="4.6.2024">ich habe eigene app auf iphone</Event>
+    <Event ID="266" date="4.6.2024">sollte dokumentieren</Event>
+    <Event ID="267" date="4.6.2024">morgen IV anrufen am morgen</Event>
+    <Event ID="268" date="5.6.2024">IV nur bis 11:30</Event>
+    <Event ID="269" date="5.6.2024">980 depo</Event>
+    <Event ID="270" date="4.6.2024">bin turückhaltend</Event>
+    <Event ID="271" date="6.6.2024">spiteex + putzfrau unnätig</Event>
+    <Event ID="272" date="6.6.2024">brief an IV morgen schreiben</Event>
+    <Event ID="273" date="6.6.2024">youtube xcode und swift lernen</Event>
+    <Event ID="274" date="6.6.2024">apotheke medi geholt</Event>
+    <Event ID="275" date="6.6.2024">immer erschlagenes gefühl</Event>
+    <Event ID="276" date="6.6.2024">fenster angefangen putzen</Event>
+    <Event ID="277" date="9.6.2024">heute Kirche mit mathias</Event>
+    <Event ID="278" date="9.6.2024">war gut mit leute</Event>
+    <Event ID="279" date="12.6.2024">gearbeitet</Event>
+    <Event ID="280" date="11.6.2024">mizt doris und lukas im Schütz</Event>
+    <Event ID="281" date="11.6.2024">frei genommen</Event>
+    <Event ID="282" date="11.6.2024">Schützenhaus</Event>
+    <Event ID="283" date="10.6.2024">gearbeitet</Event>
+    <Event ID="284" date="9.6.2024">alter mac mini</Event>
+    <Event ID="285" date="9.6.2024">auf neustes OS X gemacht</Event>
+    <Event ID="286" date="10.6.2024">apple watch 5 gelauft 93 frank</Event>
+    <Event ID="287" date="13.6.2024">rehab gemacht</Event>
+    <Event ID="288" date="13.6.2024">gearbeitet</Event>
+    <Event ID="289" date="13.6.2024">swiftui lernen</Event>
+    <Event ID="290" date="14.6.2024">gearbeit</Event>
+    <Event ID="291" date="14.6.2024">has 120</Event>
+    <Event ID="292" date="13.6.2024">neue apple uhr</Event>
+    <Event ID="293" date="15.6.2024">spitex war gut</Event>
+    <Event ID="294" date="14.6.2024">goldene hände angerufen</Event>
+    <Event ID="295" date="14.6.2024">nur noch 1. mal putzen</Event>
+    <Event ID="296" date="14.6.2024">im monat</Event>
+    <Event ID="297" date="15.6.2024">11:30 heini tibits gemacht</Event>
+    <Event ID="298" date="15.6.2024">er sagt immer selber machen</Event>
+    <Event ID="299" date="13.6.2024">ist super</Event>
+    <Event ID="300" date="16.6.2024">heute war ich niedergeschlagen</Event>
+    <Event ID="301" date="16.6.2024">kein lernen</Event>
+    <Event ID="302" date="16.6.2024">mit doris 19:00 pzza bei ihr</Event>
+    <Event ID="303" date="16.6.2024">dom rep gemeine nicht</Event>
+    <Event ID="304" date="17.6.2024">spitex anrufen dienstag absage</Event>
+    <Event ID="305" date="18.6.2024">10:15 yoga</Event>
+    <Event ID="306" date="17.6.2024">habe angerufen</Event>
+    <Event ID="307" date="17.6.2024">es wird noch sbgrklärt</Event>
+    <Event ID="308" date="17.6.2024">sahab anrufen</Event>
+    <Event ID="309" date="17.6.2024">schlafmittel kaufen</Event>
+    <Event ID="310" date="17.6.2024">schlaf,ittel gekauft</Event>
+    <Event ID="311" date="17.6.2024">gearbeitet</Event>
+    <Event ID="312" date="18.6.2024">yoga gemacht ist gut</Event>
+    <Event ID="313" date="18.6.2024">termin mri verpasst</Event>
+    <Event ID="314" date="19.6.2024">unispital anrufen</Event>
+    <Event ID="315" date="18.6.2024">anze nacht nicht eschlafen !!!</Event>
+    <Event ID="316" date="18.6.2024">Bobby verschwunden</Event>
+    <Event ID="317" date="19.6.2024">bobby verschwunden</Event>
+    <Event ID="318" date="5.7.2024">8:45 mri</Event>
+    <Event ID="319" date="5.7.2024">WICHTIG</Event>
+    <Event ID="320" date="19.6.2024">nicht arbeiten</Event>
+    <Event ID="321" date="19.6.2024">zustand kaputt kein schlaf</Event>
+    <Event ID="322" date="20.6.2024">gearbeit</Event>
+    <Event ID="323" date="25.7.2024">REHAB ZUZ 09:30</Event>
+    <Event ID="324" date="20.6.2024">nur PUTZFRAU Unötig!</Event>
+    <Event ID="325" date="21.6.2024">gearbeitet</Event>
+    <Event ID="326" date="23.6.2024">ins dom rep gebetshaus</Event>
+    <Event ID="327" date="24.6.2024">gearbeitet karton schachteln</Event>
+    <Event ID="328" date="25.6.2024">gearbeitet waren nur 2</Event>
+    <Event ID="329" date="12.7.2024">REHAB 15:30</Event>
+    <Event ID="330" date="26.6.2024">gearbeitet</Event>
+    <Event ID="331" date="26.6.2024">doris italiemer cafe</Event>
+    <Event ID="332" date="27.6.2024">frei</Event>
+    <Event ID="333" date="27.6.2024">blonde spitex frau</Event>
+    <Event ID="334" date="27.6.2024">urinbeutel geholt</Event>
+    <Event ID="335" date="27.6.2024">katzen streu gekauft</Event>
+    <Event ID="336" date="28.6.2024">heini 17.00 tibits</Event>
+    <Event ID="337" date="27.6.2024">380</Event>
+    <Event ID="338" date="28.6.2024">nomageaeitet</Event>
+    <Event ID="340" date="28.6.2024">aach doris bi italiener</Event>
+    <Event ID="339" date="28.6.2024">heini getrofen</Event>
+    <Event ID="341" date="29.6.2024">spiex schweizer</Event>
+    <Event ID="342" date="29.6.2024">mathias ch - ialien 2-0</Event>
+    <Event ID="343" date="1.7.2024">wetter schlecht</Event>
+    <Event ID="344" date="2.7.2024">wetter schlecht</Event>
+    <Event ID="345" date="3.7.2024">wetter schlecht</Event>
+    <Event ID="346" date="30.6.2024">heute war ich nachdenklich</Event>
+    <Event ID="347" date="30.6.2024">tatstatur PC eingerichtet !</Event>
+    <Event ID="348" date="30.6.2024">habe mathias abgesagt Kirche</Event>
+    <Event ID="349" date="30.6.2024">alter mac OS installieren</Event>
+    <Event ID="350" date="30.6.2024">tutti.ch 30 bezahlt</Event>
+    <Event ID="351" date="28.6.2024">lebara 37.15 bezahlt</Event>
+    <Event ID="352" date="1.7.2024">gearbeitet</Event>
+    <Event ID="353" date="1.7.2024">besitzerin war da aber röbi ni</Event>
+    <Event ID="354" date="1.7.2024">mac os x anschauen</Event>
+    <Event ID="355" date="2.7.2024">gearbeitet</Event>
+    <Event ID="356" date="2.7.2024">spitex mit plus neue</Event>
+    <Event ID="357" date="2.7.2024">doris kurz gesehen</Event>
+    <Event ID="358" date="2.7.2024">am mac 2 instalieren</Event>
+    <Event ID="359" date="3.7.2024">frei genommen</Event>
+    <Event ID="360" date="4.7.2024">gearbeitet normal</Event>
+    <Event ID="361" date="4.7.2024">media markt schrauben zieher</Event>
+    <Event ID="362" date="4.7.2024">margarita 60 sfr.-</Event>
+    <Event ID="363" date="4.7.2024">45.- einbezahl yallo</Event>
+    <Event ID="364" date="5.7.2024">&gt;mri war eigentlich um 8.45.,_</Event>
+    <Event ID="365" date="5.7.2024">nur gespräch 10.00 gemacht:_;</Event>
+    <Event ID="366" date="5.7.2024">gearbeitet.,</Event>
+    <Event ID="367" date="6.7.2024">englan - schweiz</Event>
+    <Event ID="368" date="6.7.2024">mac alt update prüfen</Event>
+    <Event ID="369" date="6.7.2024">schwei veroren</Event>
+    <Event ID="370" date="2.8.2024">MRI Schädel 12:15</Event>
+    <Event ID="371" date="7.7.2024">Heuemuss ich aufräume</Event>
+    <Event ID="372" date="8.7.2024">gearbeitet normal</Event>
+    <Event ID="373" date="8.7.2024">9 uhr aufgestanden viel geputz</Event>
+    <Event ID="374" date="8.7.2024">vater oscar gestorben</Event>
+    <Event ID="375" date="8.7.2024">marasrita mutter 60.-</Event>
+    <Event ID="376" date="4.7.2024">2 maL BEZAHLT</Event>
+    <Event ID="377" date="16.8.2024">grillplausch bsb 12:00</Event>
+    <Event ID="378" date="9.7.2024">gearbeitet</Event>
+    <Event ID="379" date="10.7.2024">gearbeitet</Event>
+    <Event ID="380" date="10.7.2024">war erschöpft</Event>
+    <Event ID="381" date="11.7.2024">bis 13:30 geschlafen</Event>
+    <Event ID="382" date="11.7.2024">spitex aber habe geschlafen</Event>
+    <Event ID="383" date="12.7.2024">war dort wechsel katheter</Event>
+    <Event ID="384" date="12.7.2024">gearbeitet normal</Event>
+    <Event ID="385" date="13.7.2024">gut geschlafen ohne medi</Event>
+    <Event ID="386" date="13.7.2024">heute aufräumen putzen</Event>
+    <Event ID="387" date="25.7.2024">NICHT VERPASSEN</Event>
+    <Event ID="388" date="15.7.2024">normal gearbeitet</Event>
+    <Event ID="389" date="15.7.2024">probleme vergesslichkeit lange</Event>
+    <Event ID="390" date="15.7.2024">mediamarkt wlan usb geholt</Event>
+    <Event ID="391" date="15.7.2024">habe gedacht morgen reha</Event>
+    <Event ID="392" date="23.7.2024">Bonstan holen REHAB</Event>
+    <Event ID="396" date="16.7.2024">arbeiten gegangen</Event>
+    <Event ID="393" date="15.7.2024">doris 22:00 bei mir</Event>
+    <Event ID="394" date="17.7.2024">arbeiten gegangen</Event>
+    <Event ID="397" date="17.7.2024">Dogan 18:00 -19:40 getroffen</Event>
+    <Event ID="398" date="17.7.2024">rezept rehab erhalten</Event>
+    <Event ID="399" date="18.7.2024">heute frau schweizer</Event>
+    <Event ID="400" date="18.7.2024">keine arbeit</Event>
+    <Event ID="401" date="18.7.2024">400 uhr</Event>
+    <Event ID="402" date="31.7.2024">feuerwerk</Event>
+    <Event ID="395" date="18.7.2024">abotheke bondtan geholt</Event>
+    <Event ID="403" date="18.7.2024">schulde 9.- spar</Event>
+    <Event ID="404" date="17.7.2024">stuhlgang gemacht viel</Event>
+    <Event ID="405" date="18.7.2024">VS MySQL lesen &amp; schreiben gem</Event>
+    <Event ID="406" date="19.7.2024">arbeiten gegangen</Event>
+    <Event ID="407" date="19.7.2024">bin um 10.10 augewacht und hab</Event>
+    <Event ID="408" date="19.7.2024">es sei nachmittag und fehler</Event>
+    <Event ID="409" date="19.7.2024">es sei schon nachmittag !</Event>
+    <Event ID="410" date="19.7.2024">dogan 18:00 - 20</Event>
+    <Event ID="411" date="19.7.2024">polizei war dort</Event>
+    <Event ID="412" date="19.7.2024">ich mass schlafe mehr</Event>
+    <Event ID="413" date="20.7.2024">nix spezielles</Event>
+    <Event ID="414" date="22.7.2024">arbeiten gegangen</Event>
+    <Event ID="415" date="22.7.2024">mit dog 18:00 eer war schlecht</Event>
+    <Event ID="416" date="23.7.2024">einnehmen</Event>
+    <Event ID="417" date="23.7.2024">15:30 ndoris erschienen im BS</Event>
+    <Event ID="418" date="25.7.2024">in rehab urologie gewesen 8:30</Event>
+    <Event ID="419" date="25.7.2024">aquarium lambe selber gemacht</Event>
+    <Event ID="420" date="26.8.2024">REHAB Urologie 14:45</Event>
+    <Event ID="421" date="26.7.2024">nicht arbeiten gegangen</Event>
+    <Event ID="422" date="28.7.2024">erst um 14:30 aufgestanden</Event>
+    <Event ID="423" date="28.7.2024">nacht medi erst um 5:30 genomm</Event>
+    <Event ID="424" date="28.7.2024">war dummer fehler</Event>
+    <Event ID="425" date="28.7.2024">mathias um 15:00 zu mir</Event>
+    <Event ID="426" date="28.7.2024">17:00 -19:45 Kirche dom rep</Event>
+    <Event ID="427" date="29.7.2024">gearbeitet</Event>
+    <Event ID="428" date="29.7.2024">18:00 Doris pizza essen</Event>
+    <Event ID="429" date="29.7.2024">oscar rschienen schlimm</Event>
+    <Event ID="431" date="30.7.2024">muss arbeiten sonst zuwenig</Event>
+    <Event ID="430" date="29.7.2024">doris hat ihn eingeladen</Event>
+    <Event ID="432" date="30.7.2024">Lebara 38.95 heute bezahlt</Event>
+    <Event ID="434" date="30.7.2024">nicht arbeiten gegangen</Event>
+    <Event ID="433" date="30.7.2024">yallo heute bezahlt 45.-</Event>
+    <Event ID="435" date="30.7.2024">dog fussball geschaut --- nega</Event>
+    <Event ID="436" date="31.7.2024">bin mit dog dort gewesen</Event>
+    <Event ID="437" date="31.7.2024">gearbeitet normal</Event>
+    <Event ID="438" date="31.7.2024">domenico wieder zurück</Event>
+    <Event ID="439" date="1.8.2024">heute feiertag</Event>
+    <Event ID="440" date="4.8.2024">10:15 Spitex</Event>
+    <Event ID="441" date="4.8.2024">mathias bei mir gewesen</Event>
+    <Event ID="442" date="4.8.2024">negativ über bibel</Event>
+    <Event ID="443" date="4.8.2024">war schwach</Event>
+    <Event ID="444" date="5.8.2024">Unispital MRI 13:30</Event>
+    <Event ID="445" date="5.8.2024">keine arbeit</Event>
+    <Event ID="446" date="5.8.2024">mit dogan gassenkürche 17.00</Event>
+    <Event ID="447" date="6.8.2024">heute normal arbeit</Event>
+    <Event ID="448" date="6.8.2024">sahb angerufen muss warten ok</Event>
+    <Event ID="449" date="7.8.2024">gearbeitet normal</Event>
+    <Event ID="450" date="7.8.2024">doris italiener 30.-</Event>
+    <Event ID="451" date="7.8.2024">elektroantrieb tutti</Event>
+    <Event ID="452" date="8.8.2024">heute die ganze nacht nix</Event>
+    <Event ID="453" date="8.8.2024">medis haben gefehlt</Event>
+    <Event ID="454" date="8.8.2024">mit dog im kaschemme</Event>
+    <Event ID="455" date="9.8.2024">normal gearbeitet</Event>
+    <Event ID="456" date="9.8.2024">habe besser geschlafen</Event>
+    <Event ID="457" date="9.8.2024">elektro hilfe tel erhalten</Event>
+    <Event ID="458" date="9.8.2024">e-ziggi gekauft</Event>
+    <Event ID="459" date="10.8.2024">mach zuwenig</Event>
+    <Event ID="460" date="10.8.2024">dogan kommt zu mir</Event>
+    <Event ID="461" date="10.8.2024">doris 22:30 bei mir</Event>
+    <Event ID="462" date="12.8.2024">frei genommen</Event>
+    <Event ID="463" date="12.8.2024">dogan 19:00</Event>
+    <Event ID="464" date="12.8.2024">extrem heiss 33 grad</Event>
+    <Event ID="465" date="12.8.2024">elektro muss warten</Event>
+    <Event ID="466" date="15.8.2024">14:00 frau kanyar frau schweiz</Event>
+    <Event ID="467" date="13.8.2024">drei genommen</Event>
+    <Event ID="468" date="13.8.2024">iv und sahb rollstuhl angerufe</Event>
+    <Event ID="469" date="14.8.2024">gearbeitet</Event>
+    <Event ID="470" date="15.8.2024">besuch war gut</Event>
+    <Event ID="471" date="15.8.2024">putzfrau jede woche</Event>
+    <Event ID="472" date="15.8.2024">doris 18:00 Italiener</Event>
+    <Event ID="473" date="16.8.2024">gegangen, war gut</Event>
+    <Event ID="474" date="16.8.2024">mathias 8 uhr bei mir</Event>
+    <Event ID="475" date="16.8.2024">stuhlgang</Event>
+    <Event ID="476" date="17.8.2024">bis 10:30 geschlafen</Event>
+    <Event ID="477" date="17.8.2024">spitex 10:40 gekommen</Event>
+    <Event ID="478" date="17.8.2024">doris italiener getroffe</Event>
+    <Event ID="479" date="17.8.2024">müde</Event>
+    <Event ID="480" date="17.8.2024">mathias will zu mir wohnen</Event>
+    <Event ID="481" date="18.8.2024">elektro nicht m öglich regen</Event>
+    <Event ID="482" date="18.8.2024">heute am asruhen</Event>
+    <Event ID="483" date="18.8.2024">gehe in gemeinde</Event>
+    <Event ID="484" date="19.8.2024">gearbeitet</Event>
+    <Event ID="485" date="19.8.2024">doris 18:00 ökulumbad gegessen</Event>
+    <Event ID="486" date="19.8.2024">15:30 apero bsb</Event>
+    <Event ID="487" date="20.8.2024">gearbeitet</Event>
+    <Event ID="489" date="21.8.2024">est um 5_00 EINGESCHLAFEN</Event>
+    <Event ID="490" date="21.8.2024">aufgewacht 16:00</Event>
+    <Event ID="491" date="22.8.2024">gearbeitet</Event>
+    <Event ID="488" date="22.8.2024">doris ökulumbad</Event>
+    <Event ID="492" date="22.8.2024">400 .-</Event>
+    <Event ID="493" date="23.8.2024">gearbeitert</Event>
+    <Event ID="494" date="23.8.2024">extrem müde</Event>
+    <Event ID="495" date="23.8.2024">mit dog gassen küche</Event>
+    <Event ID="496" date="23.8.2024">350 dolly</Event>
+    <Event ID="497" date="24.8.2024">nix spezielles nur zuhause</Event>
+    <Event ID="498" date="25.8.2024">alter laptop wioeder da</Event>
+    <Event ID="499" date="25.8.2024">zuhause fcb match tv</Event>
+    <Event ID="500" date="25.8.2024">mit doris 22:00  bdb mc donald</Event>
+    <Event ID="501" date="26.8.2024">konnte erst 7:15 schlafe¨</Event>
+    <Event ID="502" date="26.8.2024">arbeit abgesagt</Event>
+    <Event ID="503" date="5.9.2024">zahnarzt 15.15 !!!</Event>
+    <Event ID="504" date="26.8.2024">microsoft 1.95 bezahlt</Event>
+    <Event ID="505" date="27.8.2024">arbeiten gegangen</Event>
+    <Event ID="506" date="27.8.2024">nacht auf mittwoch nicht gesch</Event>
+    <Event ID="507" date="28.8.2024">arbeit abgesagt</Event>
+    <Event ID="508" date="28.8.2024">bis 16:00 geschlafen</Event>
+    <Event ID="509" date="28.8.2024">kurz heini getroffen ebike</Event>
+    <Event ID="510" date="28.8.2024">1400 fr erhalten</Event>
+    <Event ID="511" date="28.8.2024">Lebara bezahl heute 35.45</Event>
+    <Event ID="512" date="31.8.2024">16:00 EBike Kirchstrasse 11</Event>
+    <Event ID="513" date="29.8.2024">heute putzen spitex</Event>
+    <Event ID="514" date="29.8.2024">motomed gemcht</Event>
+    <Event ID="515" date="28.8.2024">STUHLGANG GEMACHT</Event>
+    <Event ID="516" date="16.9.2024">15:45 uro rehab</Event>
+    <Event ID="517" date="30.8.2024">gearbeitet</Event>
+    <Event ID="518" date="30.8.2024">bin sehr erschäpft</Event>
+    <Event ID="519" date="30.8.2024">300 dolly</Event>
+    <Event ID="520" date="31.8.2024">dort gewesen</Event>
+    <Event ID="521" date="31.8.2024">muss genau dokumentieren</Event>
+    <Event ID="522" date="31.8.2024">dogan schulden 120</Event>
+    <Event ID="523" date="31.8.2024">spitex nicht hier gewesen</Event>
+    <Event ID="524" date="9.12.2024">augenspital 7:30 !!!</Event>
+    <Event ID="525" date="31.8.2024">mit heini kirchgasse 11 mit</Event>
+    <Event ID="526" date="1.9.2024">erst um 6 eingeschlafen</Event>
+    <Event ID="527" date="1.9.2024">kaum ausgeruht</Event>
+    <Event ID="528" date="1.9.2024">yallo 30 bezahlt online</Event>
+    <Event ID="529" date="2.9.2024">arbeiten gegangen</Event>
+    <Event ID="530" date="2.9.2024">doris allschwilerplatz</Event>
+    <Event ID="531" date="2.9.2024">dogan gesehen kein geld</Event>
+    <Event ID="532" date="3.9.2024">gearbeitet</Event>
+    <Event ID="533" date="3.9.2024">dogan kein geld</Event>
+    <Event ID="534" date="3.9.2024">dolly morgen abflug</Event>
+    <Event ID="535" date="3.9.2024">schuld 450 fr</Event>
+    <Event ID="536" date="4.9.2024">kanyar geld fragen</Event>
+    <Event ID="537" date="7.9.2024">marga geburtstag</Event>
+    <Event ID="538" date="4.9.2024">email gemacht</Event>
+    <Event ID="539" date="4.9.2024">gearbeigtet</Event>
+    <Event ID="540" date="4.9.2024">18.00 dogan gassenküche gegang</Event>
+    <Event ID="541" date="5.9.2024">bus</Event>
+    <Event ID="542" date="5.9.2024">zahnarzt gut</Event>
+    <Event ID="543" date="5.9.2024">nicht gearbeitet</Event>
+    <Event ID="544" date="6.9.2024">frei genommen</Event>
+    <Event ID="545" date="6.9.2024">700 fr abgehoben</Event>
+    <Event ID="546" date="6.9.2024">motor abmachen</Event>
+    <Event ID="547" date="7.9.2024">sie hat mich gelöscht</Event>
+    <Event ID="548" date="8.9.2024">dolly 15.00 bei mir</Event>
+    <Event ID="549" date="9.9.2024">ferien</Event>
+    <Event ID="550" date="10.9.2024">ferien</Event>
+    <Event ID="551" date="11.9.2024">ferien</Event>
+    <Event ID="552" date="12.9.2024">ferien</Event>
+    <Event ID="553" date="13.9.2024">ferien</Event>
+    <Event ID="554" date="8.9.2024">dolly und lilian a waren hier</Event>
+    <Event ID="555" date="8.9.2024">war gut zu schnell</Event>
+    <Event ID="556" date="9.9.2024">nicht geschlafen</Event>
+    <Event ID="557" date="9.9.2024">heini geholfen motor</Event>
+    <Event ID="558" date="9.9.2024">dogan bei mir 6</Event>
+    <Event ID="559" date="9.9.2024">80 franken bezahl motor</Event>
+    <Event ID="560" date="7.9.2024">motor rollstuhl 900.- bezahlt</Event>
+    <Event ID="561" date="11.9.2024">dolly bei mir</Event>
+    <Event ID="562" date="11.9.2024">war ok</Event>
+    <Event ID="563" date="16.9.2024">14:45 zahnarzt</Event>
+    <Event ID="564" date="12.9.2024">dogan und luca bei mir 19.00</Event>
+    <Event ID="565" date="12.9.2024">motobike probleme</Event>
+    <Event ID="566" date="12.9.2024">380 erhalten</Event>
+    <Event ID="567" date="13.9.2024">bin extrem schwach</Event>
+    <Event ID="568" date="13.9.2024">ziggarete gekauft</Event>
+    <Event ID="569" date="13.9.2024">mit dolly 14:20 aldi</Event>
+    <Event ID="570" date="13.9.2024">war wenig begrenzt</Event>
+    <Event ID="571" date="13.9.2024">16...00 ins bett bis 19</Event>
+    <Event ID="572" date="25.11.2024">10:30 REHAB ZUZ</Event>
+    <Event ID="573" date="14.9.2024">stuhlgang im rollstuhl und bed</Event>
+    <Event ID="574" date="14.9.2024">um 11 spitex gut hilfe</Event>
+    <Event ID="575" date="14.9.2024">mathias bei mir gewesen</Event>
+    <Event ID="576" date="16.9.2024">uro abgesagt</Event>
+    <Event ID="577" date="15.9.2024">keine spitex</Event>
+    <Event ID="578" date="15.9.2024">mit mathias und doris pizza es</Event>
+    <Event ID="579" date="15.9.2024">motor funktioniert</Event>
+    <Event ID="580" date="16.9.2024">in der nacht 0 geschlafen</Event>
+    <Event ID="581" date="16.9.2024">war nicht bsb</Event>
+    <Event ID="582" date="16.9.2024">nur kurz einkaufen</Event>
+    <Event ID="583" date="16.9.2024">MEDIS geholt</Event>
+    <Event ID="584" date="16.9.2024">Dolly Deutschland</Event>
+    <Event ID="585" date="18.9.2024">doris augen op</Event>
+    <Event ID="586" date="17.9.2024">bis 13.00 geschlafen</Event>
+    <Event ID="587" date="17.9.2024">spitex 9 war sehr gut</Event>
+    <Event ID="588" date="17.9.2024">Lyliana 200&#39;.00 für dolly gege</Event>
+    <Event ID="589" date="17.9.2024">dogan gassenküche</Event>
+    <Event ID="590" date="17.9.2024">nicht arbeiten</Event>
+    <Event ID="591" date="18.9.2024">gearbeitet gut</Event>
+    <Event ID="592" date="18.9.2024">mathias engel getroffen agress</Event>
+    <Event ID="593" date="19.9.2024">iv tv 20.00</Event>
+    <Event ID="594" date="19.9.2024">gearbeitet 1 stunde</Event>
+    <Event ID="595" date="19.9.2024">rehab urologie 15:30 gemacht</Event>
+    <Event ID="596" date="19.9.2024">doris italiener 17:40</Event>
+    <Event ID="597" date="20.9.2024">gearbeitet 15 min zuspät</Event>
+    <Event ID="598" date="20.9.2024">dogan luca 30 gegeben 18:00</Event>
+    <Event ID="599" date="20.9.2024">10 franken für mysql</Event>
+    <Event ID="600" date="20.9.2024">abfallsack gekauft</Event>
+    <Event ID="601" date="21.9.2024">ganze nacht nicht geschlafen</Event>
+    <Event ID="602" date="21.9.2024">bis 15.00 dann geschlafen</Event>
+    <Event ID="603" date="21.9.2024">burgerking andreas eingeladen</Event>
+    <Event ID="604" date="21.9.2024">tv fcb-zh 0-2</Event>
+    <Event ID="605" date="22.9.2024">ganzer tag zuhause</Event>
+    <Event ID="606" date="22.9.2024">kein geld mehr</Event>
+    <Event ID="607" date="23.9.2024">gearbeitet</Event>
+    <Event ID="608" date="23.9.2024">mit doris pizza essen</Event>
+    <Event ID="609" date="23.9.2024">60 franken für schuhe</Event>
+    <Event ID="610" date="24.9.2024">0 franken</Event>
+    <Event ID="611" date="24.9.2024">gearbeitet</Event>
+    <Event ID="612" date="24.9.2024">spitex war gut</Event>
+    <Event ID="613" date="24.9.2024">dogan war hier null geld</Event>
+    <Event ID="614" date="24.9.2024">mathias hat gekocht fleisch</Event>
+    <Event ID="615" date="26.9.2024">zahnarzt abgesagt wegen regen</Event>
+    <Event ID="616" date="10.10.2024">ZAHARZT 16.00</Event>
+    <Event ID="617" date="16.10.2024">REHAB Urologie 16:00</Event>
+    <Event ID="618" date="26.9.2024">380 erhalten</Event>
+    <Event ID="619" date="27.9.2024">gearbeitet</Event>
+    <Event ID="620" date="27.9.2024">doris ökulkumbad getroffen</Event>
+    <Event ID="621" date="28.9.2024">dogan und luica waren da</Event>
+    <Event ID="622" date="29.9.2024">dolly kirche?</Event>
+    <Event ID="623" date="29.9.2024">dolly hat nicht geschrieben</Event>
+    <Event ID="624" date="29.9.2024">dolly verschwunden</Event>
+    <Event ID="625" date="29.9.2024">achtung hasbleidy</Event>
+    <Event ID="626" date="29.9.2024">mit dogan claraplatz</Event>
+    <Event ID="627" date="29.9.2024">süchtig</Event>
+    <Event ID="628" date="29.9.2024">50 abgehoben</Event>
+    <Event ID="629" date="30.9.2024">normal gearbeitet</Event>
+    <Event ID="630" date="30.9.2024">doris ökulumbad schlecht</Event>
+    <Event ID="631" date="1.10.2024">dogan upk</Event>
+    <Event ID="632" date="1.10.2024">frau schweizerr 9.00</Event>
+    <Event ID="633" date="30.9.2024">lebara bezahlt 43.10</Event>
+    <Event ID="634" date="2.10.2024">normal gearbeitet gut</Event>
+    <Event ID="635" date="2.10.2024">dolly gesehen war ok</Event>
+    <Event ID="636" date="4.10.2024">gearbeitet</Event>
+    <Event ID="637" date="5.10.2024">mit dogan trinken nur 60 min</Event>
+    <Event ID="638" date="5.10.2024">mit hasbleidy geredet 6 jahrew</Event>
+    <Event ID="639" date="4.10.2024">doris 18 franken</Event>
+    <Event ID="640" date="6.10.2024">heute nur zuhause fcb - yb 1-0</Event>
+    <Event ID="641" date="7.10.2024">gearbeitet noirmal</Event>
+    <Event ID="642" date="7.10.2024">yallo bezahlt</Event>
+    <Event ID="643" date="7.10.2024">mit doris ökulumbad gegessen</Event>
+    <Event ID="644" date="7.10.2024">E-zigggaretet gekauft</Event>
+    <Event ID="645" date="9.10.2024">gearbeitet</Event>
+    <Event ID="646" date="9.10.2024">doris ökulumbad</Event>
+    <Event ID="647" date="9.10.2024">war dumm</Event>
+    <Event ID="648" date="8.10.2024">ganze nacht nicht geschlafen</Event>
+    <Event ID="649" date="9.10.2024">eziggarete 10 franken verloren</Event>
+    <Event ID="651" date="12.10.2024">spitex 9.00</Event>
+    <Event ID="652" date="12.10.2024">ganzer tag nix</Event>
+    <Event ID="650" date="11.10.2024">doris geburtstag</Event>
+    <Event ID="653" date="11.10.2024">norchta arbeiten</Event>
+    <Event ID="654" date="14.10.2024">in der nacht kaum geschlafen</Event>
+    <Event ID="655" date="14.10.2024">doch arbeiten gegangen</Event>
+    <Event ID="656" date="14.10.2024">380 plus</Event>
+    <Event ID="657" date="18.10.2024">nit motor und heini ausflug</Event>
+    <Event ID="658" date="13.10.2024">rechnung zahnarzt 170</Event>
+    <Event ID="659" date="19.10.2024">heini 14.00</Event>
+    <Event ID="660" date="17.10.2024">mit dog gassenküche</Event>
+    <Event ID="661" date="17.10.2024">arbeiten</Event>
+    <Event ID="662" date="18.10.2024">gearbeitet</Event>
+    <Event ID="663" date="19.10.2024">ausflug mit motor in byeler mu</Event>
+    <Event ID="664" date="21.10.2024">app lauft nicht</Event>
+    <Event ID="665" date="23.10.2024">frei genommen</Event>
+    <Event ID="666" date="23.10.2024">luca 40 geleiht</Event>
+    <Event ID="667" date="24.10.2024">gearbeitet</Event>
+    <Event ID="668" date="24.10.2024">putzfrau sehr gut</Event>
+    <Event ID="669" date="25.10.2024">gearbeitet gut</Event>
+    <Event ID="670" date="25.10.2024">kopfhörer 20.- gekauft</Event>
+    <Event ID="671" date="25.10.2024">dogan kebab clara</Event>
+    <Event ID="672" date="24.10.2024">mutter geburtstag</Event>
+    <Event ID="673" date="28.10.2024">ferien</Event>
+    <Event ID="674" date="29.10.2024">ferien</Event>
+    <Event ID="675" date="25.10.2024">schutzhülle erhalten</Event>
+    <Event ID="676" date="26.10.2024">spitex war da</Event>
+    <Event ID="677" date="26.10.2024">bin zuhause</Event>
+    <Event ID="678" date="26.10.2024">18.00 fcb winterthur</Event>
+    <Event ID="679" date="26.10.2024">kein dogan</Event>
+    <Event ID="680" date="25.10.2024">lotto gespielt nur 2</Event>
+    <Event ID="681" date="28.10.2024">war beim metall gmbh</Event>
+    <Event ID="682" date="28.10.2024">anschweissen geht nicht</Event>
+    <Event ID="683" date="28.10.2024">hat einfach besser angezogen</Event>
+    <Event ID="684" date="28.10.2024">durcheinander aldi</Event>
+    <Event ID="685" date="28.10.2024">luca 20 gegeben</Event>
+    <Event ID="686" date="30.10.2024">lebara 30.45 bezahlt</Event>
+    <Event ID="687" date="30.10.2024">mathias motorstange geholfen</Event>
+    <Event ID="688" date="30.10.2024">dogan bei mir yb-fcb</Event>
+    <Event ID="689" date="31.10.2024">keine spitex</Event>
+    <Event ID="690" date="31.10.2024">keine putzhilfe</Event>
+    <Event ID="691" date="31.10.2024">mit doris kurz sutter 5.00</Event>
+    <Event ID="692" date="1.11.2024">tag nur rollstuhl repariert</Event>
+    <Event ID="693" date="30.10.2024">ferien</Event>
+    <Event ID="694" date="31.10.2024">ferien</Event>
+    <Event ID="695" date="1.11.2024">ferien</Event>
+    <Event ID="696" date="2.11.2024">wollte mit dogan nach bern</Event>
+    <Event ID="697" date="2.11.2024">abgesagt</Event>
+    <Event ID="698" date="2.11.2024">fcb-winthertur</Event>
+    <Event ID="699" date="3.11.2024">mathias bei mir</Event>
+    <Event ID="700" date="3.11.2024">er will 100 franken</Event>
+    <Event ID="701" date="4.11.2024">mathias 90.- überwiesen</Event>
+    <Event ID="702" date="4.11.2024">mein schatz geburtstag 43</Event>
+    <Event ID="703" date="4.11.2024">geARBEITET</Event>
+    <Event ID="704" date="4.11.2024">Dolly will 200.- sfr</Event>
+    <Event ID="705" date="5.11.2024">messe</Event>
+    <Event ID="706" date="6.11.2024">messe</Event>
+    <Event ID="707" date="7.11.2024">messe</Event>
+    <Event ID="708" date="8.11.2024">messe</Event>
+    <Event ID="709" date="9.11.2024">messe</Event>
+    <Event ID="710" date="10.11.2024">messe fertig</Event>
+    <Event ID="711" date="4.11.2024">200 erhalten</Event>
+    <Event ID="712" date="4.11.2024">doris 40.-</Event>
+    <Event ID="713" date="5.11.2024">verschlafen</Event>
+    <Event ID="714" date="5.11.2024">sandra bsb angerufen</Event>
+    <Event ID="715" date="6.11.2024">gearbeitet</Event>
+    <Event ID="716" date="6.11.2024">mit dogan groto yb champios le</Event>
+    <Event ID="717" date="7.11.2024">gearbeitet</Event>
+    <Event ID="718" date="7.11.2024">doris ökulumbad 18:00</Event>
+    <Event ID="719" date="8.11.2024">gearbeitet</Event>
+    <Event ID="720" date="8.11.2024">mit dogan messeplatz</Event>
+    <Event ID="721" date="8.11.2024">er flucht immer über alles</Event>
+    <Event ID="722" date="8.11.2024">brantgasse 10</Event>
+    <Event ID="723" date="8.11.2024">ausgabe 7.30 10 10</Event>
+    <Event ID="724" date="9.11.2024">zuhause eingekauft</Event>
+    <Event ID="725" date="10.11.2024">kann nur auruhen</Event>
+    <Event ID="726" date="11.11.2024">gearbeitet pünklich</Event>
+    <Event ID="727" date="11.11.2024">kälte mach schlaf</Event>
+    <Event ID="728" date="12.11.2024">dogan geburstag geschenk?</Event>
+    <Event ID="729" date="12.11.2024">er wollte nix</Event>
+    <Event ID="730" date="12.11.2024">claraplatz getroffen</Event>
+    <Event ID="731" date="12.11.2024">Normal gearbeitet</Event>
+    <Event ID="732" date="12.11.2024">spitex war da</Event>
+    <Event ID="733" date="12.11.2024">marga ende</Event>
+    <Event ID="734" date="12.11.2024">SHAB neuer rollstuhl angerufen</Event>
+    <Event ID="735" date="12.11.2024">morgen nochmals und IV</Event>
+    <Event ID="736" date="13.11.2024">urologie 15:30</Event>
+    <Event ID="737" date="13.11.2024">gearbeitet</Event>
+    <Event ID="738" date="13.11.2024">doris sutter</Event>
+    <Event ID="739" date="14.11.2024">frei</Event>
+    <Event ID="740" date="14.11.2024">b is 16.00 geschlafen</Event>
+    <Event ID="742" date="15.11.2024">um 7 wach gegessen dann in bet</Event>
+    <Event ID="743" date="15.11.2024">11.20 im rollstuhl</Event>
+    <Event ID="744" date="15.11.2024">gearbeiotet</Event>
+    <Event ID="745" date="15.11.2024">Liliana 100 srf</Event>
+    <Event ID="746" date="18.11.2024">liliana 50 offen</Event>
+    <Event ID="747" date="15.11.2024">neuer rollstuhl nächste woche</Event>
+    <Event ID="741" date="16.11.2024">in  der nacht nicht geschlafen</Event>
+    <Event ID="748" date="16.11.2024">ganzer nachmittag geschlafen</Event>
+    <Event ID="749" date="17.11.2024">doris bei mir pizza</Event>
+    <Event ID="750" date="17.11.2024">bis 15.00 geschlafen medi : 2</Event>
+    <Event ID="751" date="18.11.2024">gearbeitet</Event>
+    <Event ID="752" date="18.11.2024">e-ziigi 2 mal</Event>
+    <Event ID="753" date="18.11.2024">1 verkauft 10 euro</Event>
+    <Event ID="754" date="19.11.2024">gearbeitet</Event>
+    <Event ID="755" date="19.11.2024">plakate</Event>
+    <Event ID="756" date="20.11.2024">kälter und regen</Event>
+    <Event ID="757" date="20.11.2024">muss absagen</Event>
+    <Event ID="758" date="19.11.2024">hasbleidy 100</Event>
+    <Event ID="759" date="20.11.2024">abgesagt</Event>
+    <Event ID="760" date="20.11.2024">pneu und schlach heini gegeben</Event>
+    <Event ID="761" date="21.11.2024">gloor rollstuhl anrufen</Event>
+    <Event ID="762" date="21.11.2024">frei</Event>
+    <Event ID="763" date="21.11.2024">angerufen, sie melde es</Event>
+    <Event ID="764" date="22.11.2024">taxi jetzt für 25 10.00 bestel</Event>
+    <Event ID="765" date="22.11.2024">arbeit abgesagt</Event>
+    <Event ID="766" date="22.11.2024">viel scjhnee</Event>
+    <Event ID="767" date="23.11.2024">heini hAT pnue repariert</Event>
+    <Event ID="768" date="23.11.2024">viel im bett</Event>
+    <Event ID="769" date="24.11.2024">dog FCB-evvette gegangen 3-1</Event>
+    <Event ID="770" date="25.11.2024">10 h taxi genommen</Event>
+    <Event ID="771" date="25.11.2024">im bett blase untersucht</Event>
+    <Event ID="772" date="25.11.2024">spritze mit mittel gefuld</Event>
+    <Event ID="773" date="25.11.2024">dann tankstelle pina colada en</Event>
+    <Event ID="774" date="25.11.2024">normal gearbeitet</Event>
+    <Event ID="775" date="25.11.2024">doris okulumbad spagethi</Event>
+    <Event ID="776" date="25.11.2024">extrem erschäpft</Event>
+    <Event ID="777" date="25.11.2024">doris 60</Event>
+    <Event ID="778" date="26.11.2024">heute morgen infekt am po</Event>
+    <Event ID="779" date="26.11.2024">spzex verband gemacht</Event>
+    <Event ID="780" date="26.11.2024">von arbeit nachhause geschickt</Event>
+    <Event ID="781" date="26.11.2024">ich stinke sehr markus</Event>
+    <Event ID="782" date="26.11.2024">200 pro inennstadtz</Event>
+    <Event ID="783" date="28.11.2024">zuhause nur</Event>
+    <Event ID="784" date="28.11.2024">wunde heilen lasse</Event>
+    <Event ID="785" date="28.11.2024">lebara 31.45 bezahlt</Event>
+    <Event ID="786" date="30.11.2024">medis geholt</Event>
+    <Event ID="787" date="30.11.2024">frau schweizer  war da 11:30</Event>
+    <Event ID="788" date="30.11.2024">psyche extrem leer</Event>
+    <Event ID="789" date="30.11.2024">fcb-lausanne 18:00</Event>
+    <Event ID="790" date="30.11.2024">dogan nein</Event>
+    <Event ID="791" date="30.11.2024">vieleicht heini</Event>
+    <Event ID="792" date="1.12.2024">heute dogan langweilig</Event>
+    <Event ID="793" date="1.12.2024">burger king burger 7 franken</Event>
+    <Event ID="794" date="2.12.2024">heini muss motor bringen</Event>
+    <Event ID="795" date="1.12.2024">pc?</Event>
+    <Event ID="796" date="1.12.2024">dolly kolumbien zurück</Event>
+    <Event ID="797" date="5.12.2024">neuer rollstuhl 9.30 ~</Event>
+    <Event ID="798" date="2.12.2024">heini motor ggebracht</Event>
+    <Event ID="799" date="2.12.2024">redbull consta 8.10</Event>
+    <Event ID="800" date="2.12.2024">kebab 7.00</Event>
+    <Event ID="801" date="2.12.2024">aldi 10.30</Event>
+    <Event ID="802" date="2.12.2024">doris nbei mir</Event>
+    <Event ID="803" date="3.12.2024">reha 15.00</Event>
+    <Event ID="804" date="3.12.2024">war dort kurz arzt</Event>
+    <Event ID="805" date="3.12.2024">nächste woche wieder dorthin</Event>
+    <Event ID="806" date="5.12.2024">spitex und putzfrau</Event>
+    <Event ID="807" date="6.12.2024">12:20 Lukas heini Essen</Event>
+    <Event ID="808" date="6.12.2024">Rollstoren gekauft 30.00</Event>
+    <Event ID="809" date="6.12.2024">Dogan Aldi bis 20:15</Event>
+    <Event ID="810" date="27.1.2025">REHA ZUZ 10:30</Event>
+    <Event ID="811" date="27.12.2024">10:00 Neurologische UniSpital</Event>
+    <Event ID="812" date="20.12.2024">kanyar 9:30</Event>
+    <Event ID="813" date="8.12.2024">Yallo 45 bezahlt</Event>
+    <Event ID="814" date="8.12.2024">nur zuhause</Event>
+    <Event ID="815" date="12.12.2024">15:30 UROLOGIE</Event>
+    <Event ID="816" date="9.12.2024">augenspital abgesagt</Event>
+    <Event ID="817" date="9.12.2024">spitex spanisch schlecht</Event>
+    <Event ID="818" date="9.12.2024">rollstuhl gloor nicht möglich</Event>
+    <Event ID="819" date="13.12.2024">12.00 bs weihnachtsessen</Event>
+    <Event ID="820" date="10.12.2024">rehab wunde 19.00</Event>
+    <Event ID="821" date="10.12.2024">wundheilung gut</Event>
+    <Event ID="822" date="10.12.2024">morgaRTENRING DORIS SPAGETT</Event>
+    <Event ID="823" date="10.12.2024">bis 15.00 geschlafen</Event>
+    <Event ID="824" date="11.12.2024">spitex 9.00 da</Event>
+    <Event ID="825" date="12.12.2024">ABGESAGT</Event>
+    <Event ID="827" date="11.12.2024">kurz aldi</Event>
+    <Event ID="828" date="11.12.2024">dogan bei mir</Event>
+    <Event ID="829" date="12.12.2024">Arztzeugniss verlangen</Event>
+    <Event ID="830" date="13.12.2024">war dort essen vviel</Event>
+    <Event ID="831" date="13.12.2024">heute extrem müde</Event>
+    <Event ID="832" date="13.12.2024">vermisse ARBEITEN</Event>
+    <Event ID="833" date="13.12.2024">dogan grotto</Event>
+    <Event ID="834" date="13.12.2024">war scheisse und dumm</Event>
+    <Event ID="835" date="13.12.2024">HABE VIEL GEGESSEN</Event>
+    <Event ID="836" date="14.12.2024">FCB - GC</Event>
+    <Event ID="837" date="13.12.2024">euromillion 1 tipp 3.50</Event>
+    <Event ID="838" date="14.12.2024">Gewonnen?</Event>
+    <Event ID="839" date="14.12.2024">scheiss match im tv 0-1</Event>
+    <Event ID="840" date="14.12.2024">war kaputt</Event>
+    <Event ID="841" date="15.12.2024">spitex schweizer</Event>
+    <Event ID="842" date="15.12.2024">nachmittag geschlafen</Event>
+    <Event ID="843" date="17.12.2024">rehab 14:30 wunde</Event>
+    <Event ID="844" date="16.12.2024">heute wu und tannenbaum</Event>
+    <Event ID="845" date="16.12.2024">tannenbaum gekauftb 20.-</Event>
+    <Event ID="846" date="17.12.2024">geilt gut aber nicht fertig</Event>
+    <Event ID="847" date="17.12.2024">motomed ok</Event>
+    <Event ID="849" date="19.12.2024">frau schweizer spitex</Event>
+    <Event ID="850" date="19.12.2024">kino mit heini nicht möglich</Event>
+    <Event ID="851" date="19.12.2024">tibits kurz reden</Event>
+    <Event ID="852" date="20.12.2024">heini 11.00 besuch</Event>
+    <Event ID="853" date="19.12.2024">wie immer niedergeschlAGEN</Event>
+    <Event ID="854" date="20.12.2024">Kanyar gesehen</Event>
+    <Event ID="855" date="20.12.2024">nicht geschlafen</Event>
+    <Event ID="856" date="27.12.2024">urologie 15:15</Event>
+    <Event ID="826" date="23.12.2024">14:00 Augenspital</Event>
+    <Event ID="857" date="20.12.2024">3000 fertig</Event>
+    <Event ID="858" date="21.12.2024">spiex war gut</Event>
+    <Event ID="859" date="21.12.2024">spar und migro</Event>
+    <Event ID="860" date="21.12.2024">doris vielleicht</Event>
+    <Event ID="848" date="22.12.2024">doris mei mir 50.-</Event>
+    <Event ID="861" date="22.12.2024">Verbindung mit Hany Winows</Event>
+    <Event ID="862" date="22.12.2024">Android funiktioniert</Event>
+    <Event ID="863" date="6.1.2025">15:45 Augenspital</Event>
+    <Event ID="864" date="23.12.2024">war in rehab wunde</Event>
+    <Event ID="865" date="23.12.2024">nicht viel wurde gesagt</Event>
+    <Event ID="866" date="23.12.2024">kurz im BSB</Event>
+    <Event ID="867" date="23.12.2024">Markus und Daniel alles gute</Event>
+    <Event ID="868" date="23.12.2024">in der nacht erst 6:30 geschln</Event>
+    <Event ID="869" date="24.12.2024">luca dogan mike abend bei mir</Event>
+    <Event ID="870" date="24.12.2024">war ok</Event>
+    <Event ID="871" date="24.12.2024">11.15 ins bett</Event>
+    <Event ID="872" date="25.12.2024">11:30 Sptext</Event>
+    <Event ID="873" date="25.12.2024">wunde sosolala</Event>
+    <Event ID="874" date="25.12.2024">12:30 BadischBanhof</Event>
+    <Event ID="875" date="25.12.2024">e-ziggi canstalation</Event>
+    <Event ID="876" date="25.12.2024">doris erst 17:30 morgartenring</Event>
+    <Event ID="877" date="26.12.2024">mathias 170 verlangen</Event>
+    <Event ID="878" date="26.12.2024">11.30 spitex gut</Event>
+    <Event ID="879" date="26.12.2024">17.00 claraplatz dogan und oll</Event>
+    <Event ID="880" date="26.12.2024">19:30 nachhause</Event>
+    <Event ID="881" date="27.12.2024">beide verschoben</Event>
+    <Event ID="882" date="27.12.2024">ganze nacht null schlaf!!!</Event>
+    <Event ID="883" date="30.12.2024">14.00 h wunde rehab</Event>
+    <Event ID="884" date="27.12.2024">mathias da essen 18.00</Event>
+    <Event ID="885" date="28.12.2024">spitex gut beine</Event>
+    <Event ID="886" date="28.12.2024">putzfrau gut</Event>
+    <Event ID="887" date="28.12.2024">besen kaufen</Event>
+    <Event ID="888" date="28.12.2024">waschmittel</Event>
+    <Event ID="889" date="30.12.2024">arztzeugnis verlangen</Event>
+    <Event ID="890" date="27.12.2024">doris 22.00 da</Event>
+    <Event ID="891" date="28.12.2024">Aldi :</Event>
+    <Event ID="892" date="28.12.2024">waschmittel 6 Franken</Event>
+    <Event ID="893" date="28.12.2024" category="Arbeit">bESEN 7.-</Event>
+    <Event ID="894" date="29.12.2024">Sptex Spaniering gut</Event>
+    <Event ID="895" date="29.12.2024">vorbereiten für morgen</Event>
+    <Event ID="896" date="30.12.2024">wunde schlecht mehr bett liege</Event>
+    <Event ID="897" date="30.12.2024">ZEUGNIS erhalten</Event>
+    <Event ID="898" date="30.12.2024">HASBLEIDY 220 gezahlt</Event>
+    <Event ID="899" date="31.12.2024">Heute Abend SILVESTER</Event>
+    <Event ID="900" date="31.12.2024">Dogan Oliver Mike bei mir</Event>
+    <Event ID="901" date="31.12.2024">Fondue zum essen</Event>
+    <Event ID="902" date="31.12.2024">mit olli und dogan stadt bis22</Event>
+    <Event ID="903" date="31.12.2024">zuwenug im bett!!!</Event>
+    <Event ID="904" date="1.1.2025">dogan war da 19.00 - 20.00</Event>
+    <Event ID="905" date="1.1.2025">jetzt ins bet 21.15</Event>
+    <Event ID="906" date="2.1.2025">spitex frau schweizer</Event>
+    <Event ID="907" date="2.1.2025">in aldi essengekauft</Event>
+    <Event ID="908" date="2.1.2025">EZIGARETE gekauft</Event>
+    <Event ID="909" date="2.1.2025">Margarita fertig</Event>
+    <Event ID="910" date="2.1.2025">mit elisa geredet</Event>
+    <Event ID="911" date="4.1.2025">14.00 starbucks claraplatz</Event>
+    <Event ID="912" date="3.1.2025">spitex frau schweizer</Event>
+    <Event ID="913" date="3.1.2025">nachmitta beim coiffeur</Event>
+    <Event ID="914" date="7.1.2025">unispital neurologie 9.00</Event>
+    <Event ID="915" date="5.1.2025">heini kurz bei mir</Event>
+    <Event ID="916" date="5.1.2025">doris 9.00 abend</Event>
+    <Event ID="917" date="6.1.2025">dort gewesen</Event>
+    <Event ID="918" date="6.1.2025">tablet 260 kaufen</Event>
+    <Event ID="919" date="7.1.2025">gewesen punklich</Event>
+    <Event ID="920" date="7.1.2025">lenovo tablet gekauft 260</Event>
+    <Event ID="921" date="7.1.2025">doris tubbitz schleecht</Event>
+    <Event ID="922" date="7.1.2025">tod müde kraftlos</Event>
+    <Event ID="923" date="8.1.2025">spitex schnell</Event>
+    <Event ID="924" date="8.1.2025">dr gärtner angerfufen</Event>
+    <Event ID="926" date="8.1.2025">heini lampe und schutzblech</Event>
+    <Event ID="927" date="9.1.2025">ganze nacht null geschlafen</Event>
+    <Event ID="928" date="9.1.2025">spitex gut</Event>
+    <Event ID="929" date="7.7.2025">12.45 unispital MRI</Event>
+    <Event ID="930" date="10.1.2025">gärtner war da</Event>
+    <Event ID="931" date="10.1.2025">frau durizi wunde</Event>
+    <Event ID="932" date="10.1.2025">er macht test</Event>
+    <Event ID="925" date="11.1.2025">l</Event>
+    <Event ID="933" date="11.1.2025">12.20 spitex</Event>
+    <Event ID="934" date="11.1.2025">nachmittag freiestrasse kein b</Event>
+    <Event ID="935" date="14.1.2025">TABLE MUSS KOMMEN</Event>
+    <Event ID="936" date="13.1.2025">Durizo</Event>
+    <Event ID="937" date="14.1.2025">REHA Arzt 15:30</Event>
+    <Event ID="938" date="14.1.2025">MUSS BALD REHAB Stationä</Event>
+    <Event ID="939" date="15.1.2025">telefon bescheid wann</Event>
+    <Event ID="940" date="15.1.2025">Fieber 38.9</Event>
+    <Event ID="941" date="15.1.2025">Notarzt</Event>
+    <Event ID="942" date="16.1.2025">Mobile Arzte</Event>
+    <Event ID="943" date="19.1.2025">zustand immer gleich</Event>
+    <Event ID="944" date="20.1.2025">mobile ärzte</Event>
+    <Event ID="945" date="20.1.2025">sind nicht gekommen</Event>
+    <Event ID="946" date="20.1.2025">antibiotikum war das falsche</Event>
+    <Event ID="947" date="20.1.2025">habe ein neues erhalten</Event>
+    <Event ID="948" date="20.1.2025">am morgen spitex</Event>
+    <Event ID="949" date="7.5.2025">Wieder Zuhause</Event>
+    <Event ID="951" date="8.5.2025">am morgen spitex 10.15</Event>
+    <Event ID="952" date="8.5.2025">12.00 essen gekauft</Event>
+    <Event ID="953" date="8.5.2025">14.30 -16.30 gearbeitet</Event>
+    <Event ID="954" date="8.5.2025">dogan claraplatz</Event>
+    <Event ID="955" date="8.5.2025">170.00 Hasbleidy</Event>
+    <Event ID="956" date="9.5.2025">13.00 - 16.00 gearbeitet BSB</Event>
+    <Event ID="957" date="9.5.2025">Apotheke medikamente</Event>
+    <Event ID="958" date="10.5.2025">10 Uhr Hausarzt getroffen</Event>
+    <Event ID="959" date="10.5.2025">ihm Dokumente von REHAB gegebe</Event>
+    <Event ID="960" date="10.5.2025">Medikamente Liste auch gegeben</Event>
+    <Event ID="961" date="10.5.2025">Apotheke schlafmittel 10 Tabs</Event>
+    <Event ID="962" date="10.5.2025">18.00 Dogan und Oli getroffen</Event>
+    <Event ID="963" date="10.5.2025">FCB-Lugano TV restaursnt</Event>
+    <Event ID="964" date="10.5.2025">Am Abend Spitex verpasst</Event>
+    <Event ID="965" date="10.5.2025">Bin am selbsständig zu lernen</Event>
+    <Event ID="966" date="12.5.2025">gearbeitet 1.00 - 16.30</Event>
+    <Event ID="967" date="12.5.2025">30.- fr mastercard</Event>
+    <Event ID="968" date="13.5.2025">pflaster und urotainer</Event>
+    <Event ID="969" date="12.5.2025">spitex am abend nicht gekommen</Event>
+    <Event ID="970" date="12.5.2025">MySQL bezahlt 12 fr</Event>
+    <Event ID="971" date="13.5.2025">gearbeitet 13.00 - 16:30</Event>
+    <Event ID="972" date="13.5.2025">roller und parfüm gekauft</Event>
+    <Event ID="973" date="13.5.2025">rollstuhl zu gross</Event>
+    <Event ID="974" date="14.5.2025">gearbeitet 13.00 - 16.30</Event>
+    <Event ID="975" date="15.5.2025">gloor rollstuhl</Event>
+    <Event ID="976" date="16.5.2025">gearbeitet 13.00 - 16.00</Event>
+    <Event ID="977" date="16.5.2025">dogan oli grotto</Event>
+    <Event ID="978" date="16.5.2025">colomianerin 40.- geschenkt</Event>
+    <Event ID="979" date="16.5.2025">Kaspersky 32 Franken bezahlt</Event>
+    <Event ID="980" date="17.5.2025">am morgen um 10:30 rollstuhl</Event>
+    <Event ID="981" date="17.5.2025">nachmittag adressbuch schwer ü</Event>
+    <Event ID="982" date="17.5.2025">Kaschemme dogan</Event>
+    <Event ID="983" date="17.5.2025">voll wirr im kopf</Event>
+    <Event ID="984" date="18.5.2025">spitex am mporgen stuhlgang</Event>
+    <Event ID="985" date="18.5.2025">um 13.50 wieder im bett</Event>
+    <Event ID="986" date="18.5.2025">15:30 aufgewacht</Event>
+    <Event ID="987" date="18.5.2025">17.00 Tellplsatz casino</Event>
+    <Event ID="988" date="18.5.2025">mit Elisa kenne ich 6 Jahre</Event>
+    <Event ID="989" date="18.5.2025">gut überlegen</Event>
+    <Event ID="990" date="19.5.2025">bsb gearbeitet Plakat geroltt</Event>
+    <Event ID="991" date="19.5.2025">sehr harter tag</Event>
+    <Event ID="992" date="19.5.2025">am abend dogan bei mir</Event>
+    <Event ID="993" date="20.5.2025">BSB gearbeitet 13.00 - 16.30</Event>
+    <Event ID="994" date="20.5.2025">doris italiener 40.-</Event>
+    <Event ID="995" date="23.5.2025">Frau KANYAR 11.00 Termin</Event>
+    <Event ID="996" date="22.5.2025">heute habe ich frei</Event>
+    <Event ID="997" date="22.5.2025">putzmann war gut</Event>
+    <Event ID="998" date="22.5.2025">xml reader gemacht calendar</Event>
+    <Event ID="999" date="22.5.2025">wohnung für katherin gemacht</Event>
+    <Event ID="1000" date="23.5.2025">kathertin kommt</Event>
+    <Event ID="1001" date="22.5.2025">BTB für 10.30 bestellt</Event>
+    <Event ID="1002" date="22.5.2025">Spitex abgemmeldet</Event>
+    <Event ID="1003" date="24.5.2025">FCB Meisterfeier</Event>
+    <Event ID="1004" date="26.5.2025">arbeiten bsb 13.00 - 16.30</Event>
+    <Event ID="1005" date="26.5.2025">am abend dogan und marco da</Event>
+    <Event ID="1006" date="27.5.2025">12.15 im bsb</Event>
+    <Event ID="1007" date="27.5.2025">essen verpasst nur sandwich</Event>
+    <Event ID="1008" date="27.5.2025">St Jakob fussball stadion inne</Event>
+    <Event ID="1009" date="27.5.2025">19.0 dogan</Event>
+    <Event ID="1010" date="27.5.2025">Dogan schlecht aufgelegt</Event>
+    <Event ID="1011" date="27.5.2025">er arbeitet nicht mehr bsb</Event>
+    <Event ID="950" date="4.2.2025">Operation Gesäss</Event>
+    <Event ID="1012" date="28.5.2025">Heute bis 14.00 geschlafeb</Event>
+    <Event ID="1013" date="28.5.2025">Apotheke medis box geholt</Event>
+    <Event ID="1014" date="28.5.2025">heute extrem mäde</Event>
+    <Event ID="1015" date="28.5.2025">Elektro Hilfe verpasst</Event>
+    <Event ID="1016" date="28.5.2025">PSP erhalten</Event>
+    <Event ID="1017" date="16.6.2025">15.00 REHAB Urologie</Event>
+    <Event ID="1018" date="2.6.2025">11.00 Elektrohilfe</Event>
+    <Event ID="1019" date="2.6.2025">Leimgasse 1 Zeinigen</Event>
+    <Event ID="1020" date="30.5.2025">Mein Geburtstag 45</Event>
+    <Event ID="1021" date="30.5.2025">am morgen bis 11:10 geschlafen</Event>
+    <Event ID="1022" date="30.5.2025">Doris erst um 17.20 bei mir</Event>
+    <Event ID="1023" date="30.5.2025">Oscar auch</Event>
+    <Event ID="1024" date="30.5.2025">Marco um 16:40 bei mir</Event>
+    <Event ID="1025" date="30.5.2025">wenig erlebt nur psp</Event>
+    <Event ID="1026" date="30.5.2025">nur markus 120 Fr.-</Event>
+    <Event ID="1027" date="31.5.2025">Champions leauge FINAL</Event>
+    <Event ID="1028" date="31.5.2025">mit OLIVER um 18:00 Clara</Event>
+    <Event ID="1029" date="30.5.2025">DOGAN mir 10 angerufen</Event>
+    <Event ID="1030" date="31.5.2025">Oliver und Dogan Claraplatz !</Event>
+    <Event ID="1031" date="31.5.2025">Grotto und Kebab Oliver</Event>
+    <Event ID="1032" date="31.5.2025">45 min Champions Leauge 5-0</Event>
+    <Event ID="1033" date="31.5.2025">Ich schlaf jetz</Event>
+    <Event ID="1034" date="1.6.2025">Cup Fional FCB-Biel</Event>
+    <Event ID="1035" date="2.6.2025">Mit Heini dort gewesen</Event>
+    <Event ID="1036" date="2.6.2025">Muss Sitzkissen ändern</Event>
+    <Event ID="1037" date="2.6.2025">Antrag IV Preis 4&#39;000</Event>
+    <Event ID="1038" date="3.6.2025">REHAB Erotherapie</Event>
+    <Event ID="1039" date="3.6.2025">angeriufen und termin 13.Juni</Event>
+    <Event ID="1040" date="3.6.2025">Haare geschnitten</Event>
+    <Event ID="1041" date="3.6.2025">BSB gearbeitet</Event>
+    <Event ID="1042" date="13.6.2025">REHAB Eroterapie 10:45</Event>
+    <Event ID="1043" date="3.6.2025">Mandy wieder zurück</Event>
+    <Event ID="1044" date="4.6.2025">bsb normal gearbeitet</Event>
+    <Event ID="1045" date="4.6.2025">STUHLGANG NOT</Event>
+    <Event ID="1046" date="4.6.2025">IV bezahlt nicht elektro</Event>
+    <Event ID="1047" date="5.6.2025">BSB normal gearbeitet</Event>
+    <Event ID="1048" date="6.6.2025">erst 13:20 gearbeitet</Event>
+    <Event ID="1049" date="6.6.2025">Mit OLI Grotto</Event>
+    <Event ID="1050" date="7.6.2025">bis 17.00 geschlafen</Event>
+    <Event ID="1051" date="15.7.2025">neurologie 14.30 unispital</Event>
+    <Event ID="1052" date="8.6.2025">HEUTE NUR Putzen</Event>
+    <Event ID="1053" date="8.6.2025">HEINI zu Besuch</Event>
+    <Event ID="1054" date="9.6.2025">Heute Tag frei</Event>
+    <Event ID="1055" date="9.6.2025">bleibe zuhause</Event>
+    <Event ID="1056" date="10.6.2025">arbeiten geganh</Event>
+    <Event ID="1057" date="10.6.2025">tecker zusammen, zusammen kleb</Event>
+    <Event ID="1058" date="11.6.2025">gearbeitet BSB</Event>
+    <Event ID="1059" date="11.6.2025">Kurz Grottep Dogan</Event>
+    <Event ID="1060" date="12.6.2025">UNISüoial 10:30</Event>
+    <Event ID="1061" date="12.6.2025">Röntgenbilder erhaltem Alle Do</Event>
+    <Event ID="1062" date="12.6.2025">Kurz einkaufen nachhause</Event>
+    <Event ID="1063" date="12.6.2025">wenig vorbereiten morgen</Event>
+    <Event ID="1064" date="14.6.2025">Spitex am Morgen normal progra</Event>
+    <Event ID="1065" date="14.6.2025">am nachmittag bis 18:30 bett</Event>
+    <Event ID="1066" date="14.6.2025">Heini kurz telefoniert</Event>
+    <Event ID="1067" date="13.6.2025">Oli Dogan Kebab</Event>
+    <Event ID="1068" date="15.6.2025">viel geschlafen und gewitter</Event>
+    <Event ID="1069" date="16.6.2025">TERMIN war DOCH !</Event>
+    <Event ID="1070" date="16.6.2025">150 FR BUSE</Event>
+    <Event ID="1071" date="16.6.2025">BSB gearbeitet</Event>
+    <Event ID="1072" date="17.6.2025">BSB abgemeldet</Event>
+    <Event ID="1073" date="18.6.2025">BSB Abgemeldet</Event>
+    <Event ID="1074" date="18.6.2025">Erde eingekauft</Event>
+    <Event ID="1075" date="18.6.2025">Glas und Dosen entsorgt</Event>
+    <Event ID="1076" date="18.6.2025">Kissen 113.50 Bezahlt</Event>
+    <Event ID="1077" date="19.6.2025">BSB gearbeitet</Event>
+    <Event ID="1078" date="19.6.2025">Doris Felix Platter</Event>
+    <Event ID="1079" date="19.6.2025">Oscar war dort und Markus</Event>
+    <Event ID="1080" date="5.8.2025">13:15 H Botox Harblase</Event>
+    <Event ID="1081" date="22.7.2025">REHAB Uri nabgabe</Event>
+    <Event ID="1082" date="20.6.2025">bsb gearbeitet</Event>
+    <Event ID="1083" date="20.6.2025">mit olli kebab geschenkt</Event>
+    <Event ID="1084" date="20.6.2025">restaurant kaffe</Event>
+    <Event ID="1085" date="21.6.2025">heute dogan birskopf</Event>
+    <Event ID="1086" date="21.6.2025">birsfelden fest 150 jahre</Event>
+    <Event ID="1087" date="21.6.2025">kurzt band gehört</Event>
+    <Event ID="1088" date="21.6.2025">marco ohne nix falsch</Event>
+    <Event ID="1089" date="22.6.2025">16.15 doris felix platter besu</Event>
+    <Event ID="1090" date="22.6.2025">markus 90 gegeben</Event>
+    <Event ID="1091" date="24.6.2025">operation doris</Event>
+    <Event ID="1092" date="23.6.2025">BSB arbeiten gegangen 17:00 Al</Event>
+    <Event ID="1093" date="23.6.2025">18:30 Apotheke Stuhlgang</Event>
+    <Event ID="1094" date="26.6.2025">Mathias 300 Franken zurück!!!</Event>
+    <Event ID="1095" date="25.6.2025">wiederholung</Event>
+    <Event ID="1096" date="24.6.2025">Operation hat sie überstanden</Event>
+    <Event ID="1097" date="24.6.2025">am morgen stuhlgang</Event>
+    <Event ID="1098" date="24.6.2025">sehr dick</Event>
+    <Event ID="1099" date="24.6.2025">12 tropfen jetzt genommen</Event>
+    <Event ID="1100" date="24.6.2025">nicht bsbs</Event>
+    <Event ID="1101" date="24.6.2025">muss weniger rauchen*</Event>
+    <Event ID="1102" date="25.6.2025">in der nacht nix geschlafen</Event>
+    <Event ID="1103" date="25.6.2025">bsb abgesagt</Event>
+    <Event ID="1104" date="26.6.2025">hat nix</Event>
+    <Event ID="1105" date="27.6.2025">bsb gearbeitet</Event>
+    <Event ID="1106" date="27.6.2025">oliver eingeladen kebab</Event>
+    <Event ID="1107" date="27.6.2025">dogan in upk</Event>
+    <Event ID="1108" date="28.6.2025">am morgen stuhlgang spitex</Event>
+    <Event ID="1109" date="28.6.2025">ganzer tag nur zuhause</Event>
+    <Event ID="1110" date="29.6.2025">14:00 Doris besucht</Event>
+    <Event ID="1111" date="29.6.2025">oscar war auch dort</Event>
+    <Event ID="1112" date="30.6.2025">Rückgabe Sitzkissen REHAB</Event>
+    <Event ID="1113" date="11.2.2025">REHAB eintritt</Event>
+    <Event ID="1114" date="30.6.2025">rehab gesagt nur gloor!</Event>
+    <Event ID="1115" date="30.6.2025">bsb gearbeitet bis 15:00</Event>
+    <Event ID="1116" date="30.6.2025">Lebara 32.70 bezahlt</Event>
+    <Event ID="1117" date="1.7.2025">ganze nacht nicht geschlafen</Event>
+    <Event ID="1118" date="1.7.2025">nicht bsb</Event>
+    <Event ID="1119" date="1.7.2025">sitzkissen von gloor erhalten</Event>
+    <Event ID="1120" date="2.7.2025">krank mit fieber</Event>
+    <Event ID="1121" date="3.7.2025">krank mit fieber</Event>
+    <Event ID="1122" date="3.7.2025">antibiotika erhalt</Event>
+    <Event ID="1123" date="30.6.2025">UNISPITAL</Event>
+    <Event ID="1124" date="1.7.2025">UNISPITAL</Event>
+    <Event ID="1125" date="2.7.2025">UNISPITAL</Event>
+    <Event ID="1126" date="3.7.2025">UNISPITAL</Event>
+    <Event ID="1127" date="4.7.2025">UNISPITAL</Event>
+    <Event ID="1128" date="29.6.2025">UNISPITAL</Event>
+    <Event ID="1129" date="5.7.2025">UNISPITAL</Event>
+    <Event ID="1130" date="6.7.2025">UNISPITAL</Event>
+    <Event ID="1131" date="8.7.2025">UNISPITAL</Event>
+    <Event ID="1132" date="9.7.2025">UNISPITA</Event>
+    <Event ID="1133" date="10.7.2025">UNISPITAL</Event>
+    <Event ID="1134" date="11.7.2025">UNISPITAL</Event>
+    <Event ID="1135" date="11.7.2025">WIEDER ZUHAUSE</Event>
+    <Event ID="1136" date="12.7.2025">SPITEX 21.00</Event>
+    <Event ID="1137" date="17.9.2025">rehab zuz 11.00 H</Event>
+    <Event ID="1138" date="12.7.2025">gut geeschlafen</Event>
+    <Event ID="1139" date="12.7.2025">wenig essen</Event>
+    <Event ID="1140" date="12.7.2025">muss aufräumen</Event>
+    <Event ID="1141" date="13.7.2025">IN DER NACHT NICHT GESCHLAFEN</Event>
+    <Event ID="1142" date="13.7.2025">YB spitex</Event>
+    <Event ID="1143" date="16.7.2025">gearbeitet bsb</Event>
+    <Event ID="1144" date="17.7.2025">zahnarzt</Event>
+    <Event ID="1145" date="18.7.2025">gearbeitet bsb</Event>
+    <Event ID="1146" date="20.7.2025">nacht nicht geschlafen</Event>
+    <Event ID="1147" date="22.7.2025">gestern gemacht</Event>
+    <Event ID="1148" date="21.7.2025">spirx nicht gekommen</Event>
+    <Event ID="1149" date="21.7.2025">bsb gearbeitet</Event>
+    <Event ID="1150" date="21.7.2025">gassen küchen dogan</Event>
+    <Event ID="1151" date="24.7.2025">heute zahnarzt 14:45</Event>
+    <Event ID="1152" date="23.7.2025">bsb gearbeitet</Event>
+    <Event ID="1153" date="25.7.2025">bsb gearbeitet</Event>
+    <Event ID="1154" date="25.7.2025">sms versand geht wieder</Event>
+    <Event ID="1155" date="25.7.2025">Wunde am Fuss</Event>
+    <Event ID="1156" date="25.7.2025">iPhone offen</Event>
+    <Event ID="1157" date="26.7.2025">büro tisch geputzt</Event>
+    <Event ID="1158" date="26.7.2025">rollstuhl r$der kaputt !!</Event>
+    <Event ID="1159" date="26.7.2025">bleibe zuhause</Event>
+    <Event ID="1160" date="29.7.2025">15:00 REHAB FUSS</Event>
+    <Event ID="1161" date="27.7.2025">Frauen EM England Siger</Event>
+    <Event ID="1162" date="30.7.2025">nicht bsb gewesen</Event>
+    <Event ID="1163" date="31.7.2025">heute frei genommen</Event>
+    <Event ID="1164" date="31.7.2025">WU Has 260.-</Event>
+    <Event ID="1165" date="31.7.2025">gehe feuerwerk dogan</Event>
+    <Event ID="1166" date="4.8.2025">pneu wechsel Gloor 15:30</Event>
+    <Event ID="1167" date="4.8.2025">Nicht BSB heute</Event>
+    <Event ID="1168" date="1.8.2025">1. August feier</Event>
+    <Event ID="1169" date="4.8.2025">Neue Pneu erhalten</Event>
+    <Event ID="1170" date="12.8.2025">rehan wubden 15;30</Event>
+    <Event ID="1171" date="8.8.2025">ewhab wunde 13:30</Event>
+    <Event ID="1172" date="5.8.2025">war voll stress</Event>
+    <Event ID="1173" date="5.8.2025">vid&lt;ep kamera spritzen 3.</Event>
+    <Event ID="1174" date="5.8.2025">herr Berof fuss angeschaut</Event>
+    <Event ID="1175" date="5.8.2025">jede woche 2 kontrollen</Event>
+    <Event ID="1176" date="6.8.2025">BSB nicht gegangen</Event>
+    <Event ID="1177" date="7.8.2025">BSB nicht gegangen</Event>
+    <Event ID="1178" date="7.8.2025">Mandy macht wohnung putzen</Event>
+    <Event ID="1179" date="7.8.2025">SMS versenden neu gemacht</Event>
+    <Event ID="1180" date="9.8.2025">dogan und marco bei mir</Event>
+    <Event ID="1181" date="10.8.2025">nur zuhause alleine</Event>
+    <Event ID="1182" date="10.8.2025">Lugano FCB 3:1</Event>
+    <Event ID="1183" date="11.8.2025">BSB gearbeitet</Event>
+    <Event ID="1184" date="11.8.2025">sehr ,üde und stress</Event>
+    <Event ID="1185" date="12.8.2025">wund heilt gut sagt Berof</Event>
+    <Event ID="1186" date="12.8.2025">BSB arbeiten</Event>
+    <Event ID="1187" date="12.8.2025">35 grad heute</Event>
+    <Event ID="1188" date="13.8.2025">BSB gearbeitet</Event>
+    <Event ID="1189" date="14.8.2025">Garden gegrillt BSB</Event>
+    <Event ID="1190" date="14.8.2025">34 grad</Event>
+    <Event ID="1191" date="14.8.2025">Kath angerufen</Event>
+    <Event ID="1192" date="14.8.2025">EXTREME VERGàSSLICHKEIT</Event>
+    <Event ID="1193" date="16.8.2025">FCB - Biel 6:1 war dort</Event>
+    <Event ID="1194" date="17.8.2025">mathias krz da</Event>
+    <Event ID="1195" date="18.8.2025">bsb gearbeitet</Event>
+    <Event ID="1196" date="18.8.2025">doris besucht kebab laden spag</Event>
+    <Event ID="1197" date="18.8.2025">100 franken erhalten</Event>
+    <Event ID="1198" date="19.8.2025">BSB gearbeitet</Event>
+    <Event ID="1199" date="19.8.2025">16:00 wunde REHAB gezeigt</Event>
+    <Event ID="1200" date="19.8.2025">foto gemacht</Event>
+    <Event ID="1201" date="21.8.2025">bsb gearbeitet</Event>
+    <Event ID="1202" date="21.8.2025">30 min zu spät</Event>
+    <Event ID="1203" date="21.8.2025">Mndy wohnung geputzt 3 std</Event>
+    <Event ID="1204" date="20.8.2025">frei genommen</Event>
+    <Event ID="1205" date="22.8.2025">bsb gearbeitet</Event>
+    <Event ID="1206" date="22.8.2025">dogan kurz grotto</Event>
+    <Event ID="1207" date="23.8.2025">oscar bei mir 15_00 - 17:30</Event>
+    <Event ID="1208" date="24.8.2025">mathias damiel narco bei mir</Event>
+    <Event ID="1209" date="24.8.2025">mathias und daniel nur jesus</Event>
+    <Event ID="1210" date="24.8.2025">xcode mit Nico</Event>
+    <Event ID="1211" date="26.8.2025">Wundcare 16:00 REHAB</Event>
+    <Event ID="1212" date="29.8.2025">Wundcare 16:00 RHAB</Event>
+    <Event ID="1213" date="27.8.2025">Rehab 13:30 Eisen infusion</Event>
+    <Event ID="1214" date="25.8.2025">17:30 Zoodorenbach</Event>
+    <Event ID="1215" date="17.9.2025">Urin abgeben</Event>
+    <Event ID="1216" date="3.9.2025">Urin abgeben</Event>
+    <Event ID="1217" date="25.8.2025">80.- srf Elisa dorenbach</Event>
+    <Event ID="1218" date="25.8.2025">BSB gearbeitet</Event>
+    <Event ID="1219" date="27.8.2025">gegangen!!--------------------</Event>
+    <Event ID="1220" date="10.9.2025">REHAB Eiseninfusion 13:30</Event>
+    <Event ID="1221" date="19.9.2025">Tienmann REHAB 13:45</Event>
+    <Event ID="1222" date="28.8.2025">Verschlafeb kein bsb</Event>
+    <Event ID="1223" date="29.8.2025">neues plazter erhalten</Event>
+    <Event ID="1224" date="29.8.2025">BSB gearbeitet</Event>
+    <Event ID="1225" date="29.8.2025">Mathias Daniel Marco da</Event>
+    <Event ID="1226" date="29.8.2025">Elisa auch 40.-</Event>
+    <Event ID="1227" date="29.8.2025">Kapuuutttt bin ich</Event>
+    <Event ID="1228" date="30.8.2025">Konnte ohne medis nicht schlaf</Event>
+    <Event ID="1229" date="30.8.2025">nur marco bei mir</Event>
+    <Event ID="1230" date="30.8.2025">DOGAN nur geben</Event>
+    <Event ID="1231" date="30.8.2025">Sion - FCB 0:1</Event>
+    <Event ID="1232" date="31.8.2025">spitex yb wae gut</Event>
+    <Event ID="1233" date="1.9.2025">am morgen Spitex Frau serbien</Event>
+    <Event ID="1234" date="1.9.2025">11 uhr im rollstuhl</Event>
+    <Event ID="1235" date="1.9.2025">Gloor angerufen er kommt 14:00</Event>
+    <Event ID="1236" date="1.9.2025">migro essen gekauft</Event>
+    <Event ID="1237" date="1.9.2025">gloor neuer^s raad</Event>
+    <Event ID="1238" date="1.9.2025">mit heini 17:30 Tibits</Event>
+    <Event ID="1239" date="1.9.2025">hilfe angefragt</Event>
+    <Event ID="1240" date="1.9.2025">daniel und mathias getroffen</Event>
+    <Event ID="1241" date="1.9.2025">immer gleiche sache</Event>
+    <Event ID="1242" date="1.9.2025">VIEL REGEN</Event>
+    <Event ID="1243" date="1.9.2025">KANYAR MONAT AUGUST</Event>
+    <Event ID="1244" date="1.9.2025">TOP</Event>
+    <Event ID="1245" date="4.9.2025">HEINI BESUCH BEI MIR 16:00</Event>
+    <Event ID="1246" date="2.9.2025">am morgen Spitex 10:15</Event>
+    <Event ID="1247" date="2.9.2025">netter neuer mann afganistan</Event>
+    <Event ID="1248" date="2.9.2025">bsb gearbeitet</Event>
+    <Event ID="1249" date="2.9.2025">war heute fit</Event>
+    <Event ID="1250" date="2.9.2025">Doris 50 srf erhalten</Event>
+    <Event ID="1251" date="4.9.2025">MotoMed repariert</Event>
+    <Event ID="1252" date="4.9.2025">gearbeite BSB</Event>
+    <Event ID="1253" date="5.9.2025">Amulatorium 14:30 h</Event>
+    <Event ID="1254" date="5.9.2025">war nur wunde zeigen</Event>
+    <Event ID="1255" date="5.9.2025">bsb gearbeitet</Event>
+    <Event ID="1256" date="6.9.2025">medimaekt ventilator cd rw</Event>
+    <Event ID="1257" date="9.9.2025">wenig geschlafen</Event>
+    <Event ID="1258" date="9.9.2025">REHAB Wundcare</Event>
+    <Event ID="1259" date="9.9.2025">BSB gearbeitet</Event>
+    <Event ID="1260" date="9.9.2025">URIN abgegeben</Event>
+    <Event ID="1261" date="12.9.2025">wund care 14.39</Event>
+    <Event ID="1262" date="10.9.2025">dort gewesen aber sehr lange</Event>
+    <Event ID="1263" date="11.9.2025">viel stuhlgang sehr weich</Event>
+    <Event ID="1264" date="11.9.2025">bsb gearbeitet</Event>
+    <Event ID="1265" date="11.9.2025">kostet viel energie</Event>
+    <Event ID="1266" date="13.9.2025">bis 16.00 geschlafen</Event>
+    <Event ID="1267" date="14.9.2025">heute einach träge und nix</Event>
+    <Event ID="1268" date="15.9.2025">BSB gearbeitet</Event>
+    <Event ID="1269" date="15.9.2025">am abend dogan marco</Event>
+    <Event ID="1270" date="16.9.2025">gearbeitet bsb</Event>
+    <Event ID="1271" date="16.9.2025">wundcare ok</Event>
+    <Event ID="1272" date="17.9.2025">BTB 10:30</Event>
+    <Event ID="1273" date="17.9.2025">alles gemacht</Event>
+    <Event ID="1274" date="18.9.2025">nix frei</Event>
+    <Event ID="1275" date="19.9.2025">dort gewesen rezept</Event>
+    <Event ID="1276" date="19.9.2025">gearbeitet stecker</Event>
+    <Event ID="1277" date="20.9.2025">nur ausruhen kein geld</Event>
+    <Event ID="1278" date="21.9.2025">genau das gleiche</Event>
+    <Event ID="1279" date="22.9.2025">die nacht nicht geschlafen</Event>
+    <Event ID="1280" date="22.9.2025">normal gearbeitet</Event>
+    <Event ID="1281" date="23.9.2025">freier tag genommen</Event>
+    <Event ID="1282" date="23.9.2025">REHA Wundcare gewesen</Event>
+    <Event ID="1283" date="20.11.2025">Urin abgabe rehab</Event>
+    <Event ID="1284" date="4.12.2025">Urologische Untersuchung rehab</Event>
+    <Event ID="1285" date="24.9.2025">in der nacht erst um 6 geschla</Event>
+    <Event ID="1286" date="24.9.2025">kein bsb leider</Event>
+    <Event ID="1287" date="24.9.2025">sehr vergässlich</Event>
+    <Event ID="1288" date="24.9.2025">2 mal Redormin geholst</Event>
+    <Event ID="1289" date="24.9.2025">Freiburg - FCB 2:1</Event>
+    <Event ID="1290" date="25.9.2025">nur kurz aktiv war ich</Event>
+    <Event ID="1291" date="26.9.2025">BSB gearbeitet</Event>
+    <Event ID="1292" date="26.9.2025">dogan grotto</Event>
+    <Event ID="1293" date="26.9.2025">marco bei mir</Event>
+    <Event ID="1294" date="27.9.2025">heini 15:00 Tibits getroffen</Event>
+    <Event ID="1295" date="27.9.2025">Bloothoo und maus pad gekauft</Event>
+    <Event ID="1296" date="28.9.2025">FCB - LUZERN match gegangen Do</Event>
+    <Event ID="1297" date="28.9.2025">text hasbleidy</Event>
+    <Event ID="1298" date="29.9.2025">bsb gearbeitet</Event>
+    <Event ID="1299" date="29.9.2025">doris pizza gegessen</Event>
+    <Event ID="1300" date="30.9.2025">wundcare schon 16.00</Event>
+    <Event ID="1301" date="30.9.2025">bsb gearbeit</Event>
+    <Event ID="1302" date="30.9.2025">müde und schwach</Event>
+    <Event ID="1303" date="1.10.2025">spitex erst 13:30 bei mir</Event>
+    <Event ID="1304" date="1.10.2025">kein BSB</Event>
+    <Event ID="1305" date="3.10.2025">Wundcare 16:30</Event>
+    <Event ID="1306" date="2.10.2025">bsb ge&lt;rbeitet</Event>
+    <Event ID="1307" date="2.10.2025">sgecker</Event>
+    <Event ID="1308" date="2.10.2025">mit Oscar FCB Sttutgard 2-0</Event>
+    <Event ID="1309" date="14.10.2025">CT Abdomen Unispital Radiologi</Event>
+    <Event ID="1310" date="14.10.2025">14;00</Event>
+    <Event ID="1311" date="3.10.2025">bsb gearbeutet</Event>
+    <Event ID="1312" date="3.10.2025">dogan kaffe grotto</Event>
+    <Event ID="1313" date="3.10.2025">marco bei mir</Event>
+    <Event ID="1314" date="4.10.2025">gewitter nix</Event>
+    <Event ID="1315" date="4.10.2025">spitex eine frau vergangenheit</Event>
+    <Event ID="1316" date="5.10.2025">spitex mann nur strumpf</Event>
+    <Event ID="1317" date="5.10.2025">ganze zeit geschlafen</Event>
+    <Event ID="1318" date="6.10.2025">bsb gearveitet</Event>
+    <Event ID="1319" date="6.10.2025">motomed ge,acht</Event>
+    <Event ID="1320" date="7.10.2025">kein bsb</Event>
+    <Event ID="1321" date="7.10.2025">geschlafen bis 14:00</Event>
+    <Event ID="1322" date="7.10.2025">16:35 Wundcare</Event>
+    <Event ID="1323" date="7.10.2025">mit doris Ökulu,bad wurstsalat</Event>
+    <Event ID="1324" date="8.10.2025">bsb gearbeitet</Event>
+    <Event ID="1325" date="8.10.2025">dogan wohnung gewesen lift sch</Event>
+    <Event ID="1326" date="9.10.2025">bsb gearbeitet</Event>
+    <Event ID="1327" date="9.10.2025">vergessen mastercard aufladen</Event>
+    <Event ID="1328" date="9.10.2025">lehenmatt abotheke</Event>
+    <Event ID="1329" date="10.10.2025">kein Angocin mehr</Event>
+    <Event ID="1330" date="10.10.2025">gesagt</Event>
+    <Event ID="1331" date="10.10.2025">BSB gearbeitet</Event>
+    <Event ID="1332" date="10.10.2025">Hasbleidy SBB 160 Franken gese</Event>
+    <Event ID="1333" date="10.10.2025">Marco und Dogan bei mir</Event>
+    <Event ID="1334" date="10.10.2025">Marco komisch</Event>
+    <Event ID="1335" date="10.10.2025">Master Karte 15 aufgeladen</Event>
+    <Event ID="1336" date="11.10.2025">Mit dogan brantgasse</Event>
+    <Event ID="1337" date="11.10.2025">Tagebuch weitwer</Event>
+    <Event ID="1338" date="13.10.2025">ganze nacht nicht geschlafen</Event>
+    <Event ID="1339" date="13.10.2025">am abend marco und dogan</Event>
+    <Event ID="1340" date="13.10.2025">BSB abgesagt¨</Event>
+    <Event ID="1341" date="15.10.2025">BSB gearbeitet</Event>
+    <Event ID="1342" date="15.10.2025">am abend dogan schlecht</Event>
+    <Event ID="1343" date="15.10.2025">vergesslichkeit hoch</Event>
+    <Event ID="1344" date="15.10.2025">Stuhlgang viel</Event>
+    <Event ID="1345" date="15.10.2025">Spitex Frau Zürich super!</Event>
+    <Event ID="1346" date="15.10.2025">Geld 380</Event>
+    <Event ID="1347" date="16.10.2025">nicht bsb gegangen</Event>
+    <Event ID="1348" date="16.10.2025">viel in apotheke geholt</Event>
+    <Event ID="1349" date="16.10.2025">nette bekannte puptzhile</Event>
+    <Event ID="1350" date="16.10.2025">kei marco kein dogan</Event>
+    <Event ID="1351" date="16.10.2025">has 160 franken</Event>
+    <Event ID="1352" date="18.10.2025">FCB-Winterthur mit Dogan</Event>
+    <Event ID="1353" date="17.10.2025">BSB gearbeitet</Event>
+    <Event ID="1354" date="17.10.2025">Martin EKT</Event>
+    <Event ID="1355" date="18.10.2025">Dogan dumm verhaltem</Event>
+    <Event ID="1356" date="19.10.2025">Bis 14:00 geschlafen</Event>
+    <Event ID="1357" date="19.10.2025">Mathias und Doris bei mir</Event>
+    <Event ID="1358" date="19.10.2025">programmieren nur schwach</Event>
+    <Event ID="1359" date="21.10.2025">14:00 neue Spitex</Event>
+    <Event ID="1360" date="24.10.2025">Rehv urologie 15.00</Event>
+    <Event ID="1361" date="20.10.2025">gamze nacht nicht geschlafen</Event>
+    <Event ID="1362" date="23.10.2025">heini termin</Event>
+    <Event ID="1363" date="4.11.2025">Geburtstag mein Schatz</Event>
+    <Event ID="1364" date="21.10.2025">Feau Schweizer hat ürptkoll ge</Event>
+    <Event ID="1365" date="21.10.2025">Sie meldet sich nei Kanyar</Event>
+    <Event ID="1366" date="21.10.2025">Dogan hat sich nicht gemeldet</Event>
+    <Event ID="1367" date="21.10.2025">BSB abgesagt</Event>
+    <Event ID="1368" date="21.10.2025">schlaf besser</Event>
+    <Event ID="1369" date="22.10.2025">bsb gearbeitet</Event>
+    <Event ID="1370" date="22.10.2025">schöne frau treffen war super</Event>
+    <Event ID="1371" date="22.10.2025">dogan und marco bei mir</Event>
+    <Event ID="1372" date="22.10.2025">Fussball schauen</Event>
+    <Event ID="1373" date="12.11.2025">1. op niere</Event>
+    <Event ID="1374" date="19.11.2025">2. op niere</Event>
+    <Event ID="1376" date="23.10.2025">bsb gearbeitet</Event>
+    <Event ID="1377" date="23.10.2025">termine für niere erhalten</Event>
+    <Event ID="1378" date="23.10.2025">heini über unispital geredet</Event>
+    <Event ID="1379" date="23.10.2025">spitex frau aus rus</Event>
+    <Event ID="1380" date="24.10.2025">unispital anrufen</Event>
+    <Event ID="1381" date="23.10.2025">fcb verloren 2:0</Event>
+    <Event ID="1382" date="23.10.2025">kein marco und dogan</Event>
+    <Event ID="1383" date="24.10.2025">unispital ruft mir an wegen te</Event>
+    <Event ID="1384" date="26.10.2025">uhren alle umgestellt</Event>
+    <Event ID="1385" date="26.10.2025">in der nacht null geschlafen</Event>
+    <Event ID="1386" date="25.10.2025">finazen programmiert</Event>
+    <Event ID="1387" date="27.10.2025">BSB gearbeitet war ok</Event>
+    <Event ID="1388" date="28.10.2025">muss frei nehm€n</Event>
+    <Event ID="1389" date="28.10.2025">null geschlafen</Event>
+    <Event ID="1390" date="28.10.2025">kein bsb</Event>
+    <Event ID="1391" date="31.10.2025">termin unispital 13.50</Event>
+    <Event ID="1392" date="29.10.2025">BSB gearbeitet</Event>
+    <Event ID="1393" date="29.10.2025">FCB-Zürich 2-0 mit dogan live</Event>
+    <Event ID="1394" date="30.10.2025">Zic Zag lukas doris 12:00</Event>
+    <Event ID="1375" date="6.11.2025">unispital untersuchung 14.00 u</Event>
+    <Event ID="1395" date="30.10.2025">anschliessen banhof</Event>
+    <Event ID="1396" date="30.10.2025">WU 220 + 30</Event>
+    <Event ID="1397" date="31.10.2025">Verpasst !!!</Event>
+    <Event ID="1398" date="31.10.2025">bsb gearbeitet plus mbg</Event>
+    <Event ID="1399" date="31.10.2025">mit dogan messe + grotto</Event>
+    <Event ID="1400" date="1.11.2025">spiex muss du künden</Event>
+    <Event ID="1401" date="4.11.2025">bsb gearbeitet</Event>
+    <Event ID="1402" date="3.11.2025">bsb gearbeitet</Event>
+    <Event ID="1403" date="3.11.2025">Am Abend total kaputt</Event>
+    <Event ID="1404" date="4.11.2025">total kaputt</Event>
+    <Event ID="1405" date="4.11.2025">doris getroffen 90.-</Event>
+    <Event ID="1406" date="5.11.2025">frei genommen</Event>
+    <Event ID="1407" date="7.11.2025">wundcare rehab 16.00</Event>
+    <Event ID="1408" date="6.11.2025">ICH war PUNKTLICH</Event>
+    <Event ID="1409" date="6.11.2025">Blutentnahme</Event>
+    <Event ID="1410" date="6.11.2025">Urinbeutel abgegeben</Event>
+    <Event ID="1411" date="6.11.2025">kurz gesehen ablauf</Event>
+    <Event ID="1412" date="6.11.2025">Mit Dogan FCB-Budapest 3-1</Event>
+    <Event ID="1413" date="6.11.2025">Mathias 50.- überwiesen</Event>
+    <Event ID="1414" date="6.11.2025">Medis geholat</Event>
+    <Event ID="1415" date="5.11.2025">Mittwoch-Donnerstag NIX Geschl</Event>
+    <Event ID="1416" date="10.11.2025">Muss frei nehmen</Event>
+    <Event ID="1417" date="11.11.2025">Muss frei nehmen</Event>
+    <Event ID="1418" date="11.11.2025">SMS OP</Event>
+    <Event ID="1419" date="10.11.2025">Coiffeur gewesen</Event>
+    <Event ID="1420" date="11.11.2025">Neue Mastercard gekauft</Event>
+    <Event ID="1421" date="11.11.2025">Cloudclaster und Hotmail bezah</Event>
+    <Event ID="1422" date="16.12.2025">urologie unispital</Event>
+    <Event ID="1423" date="6.12.2025">heute zum ersten mal zuhause</Event>
+    <Event ID="1424" date="6.12.2025">muss prothese suchen</Event>
+    <Event ID="1425" date="8.12.2025">Firma Gloor 13:30 rehab</Event>
+    <Event ID="1426" date="13.11.2025">operation bein</Event>
+    <Event ID="1427" date="17.12.2025">kurz zuhause kleider</Event>
+    <Event ID="1428" date="17.12.2025">Shapoo gekauft</Event>
+    <Event ID="1429" date="20.12.2025">war zuhause</Event>
+    <Event ID="1430" date="20.12.2025">FCB-Servet war match</Event>
+    <Event ID="1431" date="20.12.2025">1- Jalbzeit dogan</Event>
+    <Event ID="1432" date="20.12.2025">viel zu putzen zuhause</Event>
+    <Event ID="1433" date="21.12.2025">viel geschlafen</Event>
+    <Event ID="1434" date="24.12.2025">heute zuhause Marco Mathias</Event>
+    <Event ID="1435" date="24.12.2025">und oscar bei mir</Event>
+    <Event ID="1436" date="28.12.2025">qar zuhausw mit hasbleidy</Event>
+    <Event ID="1437" date="27.12.2025">nachhause gegangen</Event>
+    <Event ID="1438" date="3.1.2026">nachhause</Event>
+    <Event ID="1439" date="3.1.2026">hasbleidy alleine mit mir</Event>
+    <Event ID="1440" date="4.1.2026">hasbleidy und dominique weg</Event>
+    <Event ID="1441" date="4.1.2026">hat ein ende</Event>
+    <Event ID="1442" date="5.1.2026">rehab</Event>
+    <Event ID="1443" date="6.1.2026">rehab</Event>
+    <Event ID="1444" date="7.1.2026">rehab</Event>
+    <Event ID="1445" date="8.1.2026">rehab</Event>
+    <Event ID="1446" date="9.1.2026">rehab</Event>
+    <Event ID="1447" date="8.1.2026">Bein Röntgen</Event>
+    <Event ID="1448" date="8.1.2026">Linkes beinGebrochen</Event>
+    <Event ID="1449" date="10.1.2026">Zuhause</Event>
+    <Event ID="1450" date="10.1.2026">Marco bei mir</Event>
+    <Event ID="1451" date="10.1.2026">übernachtet hier</Event>
+    <Event ID="1452" date="7.2.2026">zuhause nur 4 std</Event>
+    <Event ID="1453" date="28.2.2026">zuhaise bis 18-00</Event>
+    <Event ID="1454" date="14.3.2026">zuhause bs 17:30</Event>
+    <Event ID="1455" date="14.3.2026">hasbleidy und familier</Event>
+    <Event ID="1456" date="14.3.2026">ohne mathias</Event>
+    <Event ID="1457" date="17.3.2026">nachhause</Event>
+    <Event ID="1458" date="18.3.2026">9.00 uhr spitex war gut</Event>
+    <Event ID="1459" date="18.3.2026">ganze zeit nur im rollstuhl</Event>
+    <Event ID="1460" date="18.3.2026">erst 21:00 spitex</Event>
+    <Event ID="1461" date="19.3.2026">in der nacht erst 5.30 eingesc</Event>
+    <Event ID="1462" date="19.3.2026">spitex .30 da</Event>
+    <Event ID="1463" date="19.3.2026">13.20 im rollstuhl</Event>
+    <Event ID="1464" date="21.3.2026">12.00 in rollstuhl</Event>
+    <Event ID="1465" date="21.3.2026">mit  dogan gross eingekauft</Event>
+    <Event ID="1466" date="21.3.2026">IV Formular erhaltem</Event>
+    <Event ID="1467" date="21.3.2026">wenig gecodet</Event>
+    <Event ID="1469" date="21.4.2026">14:30 Röntgen REHAB</Event>
+    <Event ID="1470" date="23.3.2026">9.30 REHAB Ergptherapy</Event>
+    <Event ID="1471" date="23.3.2026">mein rollstuhl erst freitag</Event>
+    <Event ID="1472" date="23.3.2026">mit btn wasenboden Coiffeur</Event>
+    <Event ID="1473" date="23.3.2026">spitex 16.30 gekommen</Event>
+    <Event ID="1474" date="23.3.2026">kurz BSB</Event>
+    <Event ID="1475" date="23.3.2026">war fit heute</Event>
+    <Event ID="1476" date="24.3.2026">Grabe Institut anrufen</Event>
+    <Event ID="1477" date="24.3.2026">Oscar 17:&#39;&#39;  20.15 bei mir</Event>
+    <Event ID="1478" date="25.3.2026">ganzer tag tod müde</Event>
+    <Event ID="1479" date="25.3.2026">wniger projrlz hasböeody v#</Event>
+    <Event ID="1480" date="26.3.2026">8-00 aufgesanden</Event>
+    <Event ID="1481" date="26.3.2026">Projekt hasbledy gemacht</Event>
+    <Event ID="1482" date="27.3.2026">Schweiz deutsdchland</Event>
+    <Event ID="1483" date="26.3.2026">Gloor hat teile erhalten</Event>
+    <Event ID="1484" date="1.4.2026">Muss BSB gehen$</Event>
+    <Event ID="1485" date="30.3.2026">9.30 REGAB</Event>
+    <Event ID="1486" date="27.3.2026">Rollstuhl zurück</Event>
+    <Event ID="1487" date="30.3.2026">13:15 REHAB Katheter</Event>
+    <Event ID="1488" date="27.3.2026">war lange zeit wach</Event>
+    <Event ID="1489" date="27.3.2026">zumüde zum konzentrieren</Event>
+    <Event ID="1490" date="28.3.2026">erst um 12:3&#39; im neuen rollstu</Event>
+    <Event ID="1491" date="28.3.2026">neue rollstuhl nicht möglich</Event>
+    <Event ID="1492" date="28.3.2026">muss in grossen rollstuhl zurü</Event>
+    <Event ID="1493" date="28.3.2026">15_00 mathias und dogan bei mi</Event>
+    <Event ID="1494" date="28.3.2026">zu kaputt zum lernen</Event>
+    <Event ID="1495" date="29.3.2026">Marco Geburtstag</Event>
+    <Event ID="1496" date="2.4.2026">15:30 rehab berof</Event>
+    <Event ID="1497" date="5.4.2026">ganze nacht 0 schlaf$</Event>
+    <Event ID="1498" date="5.4.2026">mathias rebeka bei mir</Event>
+    <Event ID="1499" date="5.4.2026">war unangehneh</Event>
+    <Event ID="1500" date="7.4.2026">15:30 Rehab wundcare</Event>
+    <Event ID="1501" date="7.4.2026">war ok bekomme Pflaster</Event>
+    <Event ID="1502" date="7.4.2026">mit BTB hingefahren</Event>
+    <Event ID="1503" date="7.4.2026">Gearbeitet voll</Event>
+    <Event ID="1504" date="8.4.2026">BTB 12:30 bestelt</Event>
+    <Event ID="1505" date="8.4.2026">bin von europapark ausgeschlos</Event>
+    <Event ID="1506" date="8.4.2026">21:00 Doris und marco bei mir</Event>
+    <Event ID="1507" date="7.4.2026">BTB Taxi hinfahrt</Event>
+    <Event ID="1508" date="8.4.2026">BTB Taxi hibfagrt</Event>
+    <Event ID="1509" date="9.4.2026">Frei</Event>
+    <Event ID="1510" date="9.4.2026">Trainerhosen gekauft</Event>
+    <Event ID="1511" date="9.4.2026">Apotheke sachen geholt</Event>
+    <Event ID="1512" date="9.4.2026">SQL cloudcluster 20 franken bh</Event>
+    <Event ID="1513" date="10.4.2026">13:16 Botox REHAB</Event>
+    <Event ID="1514" date="14.4.2026">15:00 Wundcare REHAB</Event>
+    <Event ID="1468" date="21.4.2026">REHAB 14:30</Event>
+    <Event ID="1515" date="16.4.2026">heute war ich in Hüskes</Event>
+    <Event ID="1516" date="16.4.2026">Prothese kleiner gemacht</Event>
+    <Event ID="1517" date="16.4.2026">sollte zu anziehen besser</Event>
+    <Event ID="1518" date="16.4.2026">todmüde</Event>
+    <Event ID="1519" date="19.4.2026">war mit matgias zuhause</Event>
+    <Event ID="1520" date="20.4.2026">arbeiten bsb war gut</Event>
+    <Event ID="1521" date="20.4.2026">leide stark müdigkeit</Event>
+    <Event ID="1522" date="20.4.2026">kann schwer etwas umsetzen</Event>
+    <Event ID="1523" date="22.4.2026">bsb arbeiten gegangen</Event>
+    <Event ID="1524" date="22.4.2026">öde arbeit</Event>
+    <Event ID="1525" date="22.4.2026">nul konzentration</Event>
+    <Event ID="1526" date="25.4.2026">nur zuhause</Event>
+    <Event ID="1527" date="27.4.2026">REHAB Urologie 15:30</Event>
+    <Event ID="1528" date="27.4.2026">Urologie 13:15</Event>
+    <Event ID="1529" date="26.4.2026">FCB-Sione 0-2</Event>
+    <Event ID="1530" date="26.4.2026">Galaxus UHR Bezahlt 23.50</Event>
+    <Event ID="1531" date="27.4.2026">urinbeutel gewechselt</Event>
+    <Event ID="1532" date="29.4.2026">Frei</Event>
+    <Event ID="1533" date="27.4.2026">twint fehler login</Event>
+    <Event ID="1534" date="28.4.2026">BSB gearbeitet</Event>
+    <Event ID="1535" date="28.4.2026">Binverdammt vergesslich</Event>
+    <Event ID="1536" date="1.5.2026">Abend spitex abgesagt</Event>
+    <Event ID="1537" date="2.5.2026">Abend Spitex abgesagt</Event>
+    <Event ID="1538" date="2.5.2026">Heute Morgen Stuhlgang max</Event>
+    <Event ID="1539" date="1.5.2026">Marco bei mir geschlafen</Event>
+    <Event ID="1540" date="2.5.2026">Marco sässhaft</Event>
+    <Event ID="1541" date="2.5.2026">hat sachen benutzt</Event>
+    <Event ID="1542" date="2.5.2026">nie mehr übernachten</Event>
+    <Event ID="1543" date="2.5.2026">FCB - Thun</Event>
+    <Event ID="1544" date="2.5.2026">nur tv schauen</Event>
+    <Event ID="1545" date="2.5.2026">sms_calendar weiter</Event>
+    <Event ID="1546" date="5.5.2026">9gearbeitet</Event>
+    <Event ID="1547" date="5.5.2026">rehab urin abgegeben</Event>
+    <Event ID="1548" date="5.5.2026">weisse unterhosen nicht erhalt</Event>
+    <Event ID="1549" date="6.5.2026">rehab botox 13:15</Event>
+    <Event ID="1550" date="5.5.2026">Arsenal atletico madrt 2-1 gew</Event>
+    <Event ID="1551" date="6.5.2026">gegangen war gut</Event>
+    <Event ID="1552" date="6.5.2026">15:00 gearbeitet</Event>
+    <Event ID="1553" date="6.5.2026">in der nacht schlecht gesclafe</Event>
+    <Event ID="1554" date="6.5.2026">MEDIKAMENTE GEGOLT</Event>
+    <Event ID="1555" date="4.5.2026">ARBEIT VERPASST</Event>
+    <Event ID="1556" date="7.5.2026">MUSS ARBEITEN GEHEN</Event>
+    <Event ID="1559" date="7.5.2026">War im BSB</Event>
+    <Event ID="1560" date="8.5.2026">Heute BSB gearbeitet</Event>
+    <Event ID="1561" date="9.5.2026">CloudClusters Team</Event>
+    <Event ID="1562" date="9.5.2026">y cloud closter bezahl</Event>
+    <Event ID="1563" date="9.5.2026">heute ausruhen</Event>
+    <Event ID="1564" date="10.5.2026">Doris Rosen gebracht</Event>
+    <Event ID="1565" date="10.5.2026">komischerweise müde</Event>
+    <Event ID="1566" date="11.5.2026">BSB gearbeitet war gut</Event>
+    <Event ID="1567" date="11.5.2026">REGEN kalt</Event>
+    <Event ID="1568" date="11.5.2026">VENTILATOR ERHALTEN</Event>
+    <Event ID="1569" date="11.5.2026">25 Franken offen</Event>
+    <Event ID="1557" date="13.5.2026">ZAHNARZT 9:30</Event>
+    <Event ID="1558" date="12.5.2026">11:00 SANITäR</Event>
+    <Event ID="1570" date="13.5.2026">wAR DORT</Event>
+    <Event ID="1571" date="13.5.2026">Vielleicht neue Prothese</Event>
+    <Event ID="1572" date="13.5.2026">Finanzelle abklärung</Event>
+    <Event ID="1573" date="14.5.2026">am morgen 7:45 IB</Event>
+    <Event ID="1574" date="14.5.2026">in der nacht selber stuh NEIN</Event>
+    <Event ID="1575" date="14.5.2026">hatte durchfall</Event>
+    <Event ID="1576" date="14.5.2026">KEINE KONSETRATION</Event>
+    <Event ID="1577" date="15.5.2026">frei</Event>
+    <Event ID="1578" date="15.5.2026">einkaufen STAUBSAUGER</Event>
+    <Event ID="1579" date="16.5.2026">energielos</Event>
+    <Event ID="1580" date="16.5.2026">samsung table erhalten und ps3</Event>
+    <Event ID="1581" date="17.5.2026">16:30 mit daniel Denner birsfe</Event>
+    <Event ID="1582" date="20.5.2026">bsb gearbeitet</Event>
+    <Event ID="1583" date="20.5.2026">Protolax geholt</Event>
+    <Event ID="1585" date="20.5.2026">144 gekommen</Event>
+    <Event ID="1586" date="20.5.2026">kostet 360 Franken</Event>
+    <Event ID="1587" date="22.5.2026">UNISpital Urologie 11:00</Event>
+    <Event ID="1588" date="22.5.2026">13.30 Frau Kanyar</Event>
+    <Event ID="1589" date="21.5.2026">gearbeitet</Event>
+    <Event ID="1590" date="22.5.2026">war im unispital</Event>
+    <Event ID="1591" date="22.5.2026">Urin und Blut abgabe</Event>
+    <Event ID="1592" date="24.5.2026">Lukas Geburtstag</Event>
+    <Event ID="1593" date="24.5.2026">nur sms geschrieben und Postka</Event>
+    <Event ID="1594" date="24.5.2026">ich lege mir hin</Event>
+    <Event ID="1595" date="26.5.2026">BSB ARBEITEN GEMACHT</Event>
+    <Event ID="1596" date="29.5.2026">12:00 ESSEN LUKAS DORIS</Event>
+    <Event ID="1597" date="27.5.2026">GALXUS RECHNUNG</Event>
+    <Event ID="1598" date="26.5.2026">PERMED RECHNUNG ERHALTEN</Event>
+    <Event ID="1599" date="29.5.2026">PERMED KOMMT 15:00</Event>
+    <Event ID="1600" date="28.5.2026">MUSS ARBEIT GEHEN</Event>
+    <Event ID="1601" date="29.5.2026">FREI</Event>
+    <Event ID="1602" date="28.5.2026">Verschlafen keine arbeit</Event>
+    <Event ID="1603" date="29.5.2026">PERMED MITTWOCH ABEND NEIN</Event>
+    <Event ID="1604" date="29.5.2026">LUKAS DORIS GEGESSEN</Event>
+    <Event ID="1605" date="29.5.2026">LUKAS KEIN GESCHENK</Event>
+    <Event ID="1606" date="29.5.2026">DORIS 100 EURO</Event>
+    <Event ID="1607" date="30.5.2026">ANDY 46 GEBURTSTAG</Event>
+    <Event ID="1608" date="30.5.2026">SOLL KOMMEN WER WILL</Event>
+    <Event ID="1609" date="30.5.2026">Mathias war am besten</Event>
+    <Event ID="1610" date="30.5.2026">Lukas und Heini waren da</Event>
+    <Event ID="1611" date="31.5.2026">heute nur ausruhen</Event>
+    <Event ID="1612" date="31.5.2026">Kirche Daniel verpasst</Event>
+    <Event ID="1613" date="5.6.2026">Operation Blase</Event>
+    <Event ID="1614" date="1.6.2026">BSB gearbeitet</Event>
+    <Event ID="1615" date="1.6.2026">bei Heini zuhause 17:40</Event>
+    <Event ID="1616" date="2.6.2026">BSB gearbeitet</Event>
+    <Event ID="1617" date="2.6.2026">8:20 aufgestande</Event>
+    <Event ID="1618" date="2.6.2026">am morgen bobby fleisch gekauf</Event>
+    <Event ID="1619" date="2.6.2026">2 Mineral WASSER</Event>
+    <Event ID="1620" date="2.6.2026">KEINEnUNTERLAGEN UNI</Event>
+    <Event ID="1621" date="3.6.2026">BSB Gearbeitet</Event>
+    <Event ID="1622" date="3.6.2026">STECKER</Event>
+    <Event ID="1623" date="4.6.2026">14:00 UNISPITAL EINTRITT</Event>
+    <Event ID="1624" date="4.6.2026">SACHEN MITNEHMEN</Event>
+    <Event ID="1625" date="8.6.2026">BSB ARBEITEN GEGANGEN</Event>
+    <Event ID="1626" date="8.6.2026">rECHNUNG APOTHEKE 91 FRANKEN B</Event>
+    <Event ID="1627" date="8.6.2026">GALAXUS 30 BEZAHLT</Event>
+    <Event ID="1628" date="8.6.2026">APPLE WATCH H¨LLE 15.- BEZAHLT</Event>
+    <Event ID="1629" date="9.6.2026">13:15 Wundcare Berof</Event>
+    <Event ID="1630" date="9.6.2026">Mehr entlasten</Event>
+    <Event ID="1631" date="9.6.2026">länger ausruhen</Event>
+    <Event ID="1632" date="9.6.2026">Trainerhosen nicht falsch</Event>
+    <Event ID="1633" date="9.6.2026">Arbeit abgesagt</Event>
+    <Event ID="1634" date="9.6.2026">wenig schlaf</Event>
+    <Event ID="1635" date="10.6.2026">besser geschlafeb</Event>
+    <Event ID="1636" date="10.6.2026">ARBEIT BSB</Event>
+    <Event ID="1584" date="20.5.2026">vom Bett gefallen 430.-</Event>
+    <Event ID="1638" date="23.6.2026">WUNDCARE 15::00</Event>
+    <Event ID="1639" date="11.6.2026">Aquarium</Event>
+    <Event ID="1640" date="12.6.2026">heute BSB gearbeitet</Event>
+    <Event ID="1641" date="12.6.2026">2 Surface tutti 200.- erhalten</Event>
+    <Event ID="1642" date="11.6.2026">erste 4:00 geschlafen</Event>
+    <Event ID="1637" date="16.6.2026">Wundcare 16:00</Event>
+    <Event ID="1643" date="16.6.2026">WICHTIG !!</Event>
+    <Event ID="1644" date="13.6.2026">Spitex clement kurz aber ok</Event>
+    <Event ID="1645" date="13.6.2026">bis 11:00 geschlafen</Event>
+    <Event ID="1646" date="13.6.2026">Mediamarkt</Event>
+    <Event ID="1647" date="13.6.2026">Laptop tasche</Event>
+    <Event ID="1648" date="13.6.2026">WIFI USB</Event>
+    <Event ID="1649" date="30.6.2026">UNISptal operation 6:00</Event>
+    <Event ID="1650" date="30.6.2026">Nierensteine gelesert</Event>
+    <Event ID="1651" date="30.6.2026">und entfernt</Event>
+    <Event ID="1652" date="1.7.2026">11:30 nachhause</Event>
+    <Event ID="1653" date="1.7.2026">Spitex 20:30</Event>
+    <Event ID="1654" date="22.7.2026">UniSpital 12:10 radiologie</Event>
+    <Event ID="1655" date="23.9.2026">REHAB ZUZ 13:15</Event>
+    <Event ID="1656" date="23.7.2026">Unispital Urologie 11:30</Event>
+    <Event ID="1657" date="2.7.2026">BSB Arztzeugnis gesendet</Event>
+    <Event ID="1658" date="2.7.2026">UNISpital Rosen gebracht</Event>
+    <Event ID="1659" date="2.7.2026">UNISpital Waschlappen erhalten</Event>
+    <Event ID="1660" date="2.7.2026">SPITEX IB STUHLGANG GEMACHT</Event>
+    <Event ID="1661" date="7.7.2026">REHAB Wundcare 16:00</Event>
+    <Event ID="1662" date="4.7.2026">Spitex IB 8:10 ammorgen</Event>
+    <Event ID="1663" date="4.7.2026">kurz stuhlgang</Event>
+    <Event ID="1664" date="4.7.2026">Apotheke TEMEST 2 stück</Event>
+    <Event ID="1665" date="4.7.2026">BRAUCHE REZEBT</Event>
+    <Event ID="1666" date="2.7.2026">DORIS UMFALL</Event>
+    <Event ID="1667" date="3.7.2026">DORIS WIEDER ZUHAUSE</Event>
+    <Event ID="1668" date="7.7.2026">23:45 mobile ärzte</Event>
+    <Event ID="1669" date="7.7.2026">musste erberechen und fieber</Event>
+    <Event ID="1670" date="7.7.2026">katheter verstopft</Event>
+    <Event ID="1671" date="8.7.2026">UNI Spital Notfall 13:00</Event>
+    <Event ID="1672" date="9.7.2026">stationär 5. Stock</Event>
+    <Event ID="1673" date="10.7.2026">Unispital 5. Stock</Event>
+    <Event ID="1674" date="15.7.2026">Zurück zuhause</Event>
+    <Event ID="1675" date="14.7.2026">UNISPITAL 5. STOCK</Event>
+    <Event ID="1676" date="13.7.2026">UNISPITAL 5. STOCK</Event>
+    <Event ID="1677" date="12.7.2026">UNISPITAL 5. STOCK</Event>
+    <Event ID="1678" date="11.7.2026">UNISPITAL 5. STOCK</Event>
+    <Event ID="1679" date="14.7.2026">REHAB WUNDE ZEIGEN</Event>
+    <Event ID="1680" date="14.7.2026">Dr. BEROV sieht gut aus</Event>
+    <Event ID="1681" date="14.7.2026">SPANUE - FRANKREICH 2:0</Event>
+    <Event ID="1683" date="17.7.2026">Doris und Markus in Oekolumbad</Event>
+    <Event ID="1682" date="16.7.2026">zuhause und mediamakt tastatur</Event>
+    <Event ID="1684" date="16.7.2026">AM MORGEN RITA PUTZEN</Event>
+    <Event ID="1685" date="19.7.2026">WM FINAL</Event>
+    <Event ID="1686" date="19.7.2026">SPANIEN . ARGENTINIEN 1 -0</Event>
+    <Event ID="1687" date="19.7.2026">BILDSCHIRM STRASSE HEINI</Event>
+    <Event ID="1688" date="19.7.2026">TELLPLATZ ESSEN MIT ELISA</Event>
+    <Event ID="1689" date="20.7.2026">gearbeitet BSB</Event>
+    <Event ID="1690" date="21.7.2026">in der nach 01:00 essen gegang</Event>
+    <Event ID="1691" date="21.7.2026">gearbeitet aber 10 min zuspät</Event>
+    <Event ID="1692" date="22.7.2026">FREI GENOMMEN</Event>
+    <Event ID="1693" date="23.7.2026">WAR DORT POSITIV</Event>
+    <Event ID="1694" date="23.7.2026">NEUER TRINK UND ESSPLAN</Event>
+    <Event ID="1695" date="23.7.2026">BSB GEARBEITET</Event>
+    <Event ID="1696" date="23.7.2026">SCHLECHT GESCHLAFEN</Event>
+    <Event ID="1697" date="24.7.2026">MUSS SURACE ERHALTEN</Event>
+    <Event ID="1698" date="24.7.2026">NICHT ERHALTEN ERST MONTAG</Event>
+    <Event ID="1699" date="24.7.2026">BSB GEARBEITET</Event>
+    <Event ID="1700" date="24.7.2026">MEDIKAMENTE DORT VERGESSEN !!</Event>
+    <Event ID="1701" date="24.7.2026">DOGAN GROTTO</Event>
+    <Event ID="1702" date="25.7.2026">Spitex neue Afrijanische frau</Event>
+    <Event ID="1703" date="25.7.2026">Mit Dogan claraplatz</Event>
+    <Event ID="1704" date="25.7.2026">Servett _ FCB 0-1</Event>
+    <Event ID="1706" date="26.7.2026">Heute um 14:00 wieder in das B</Event>
+    <Event ID="1707" date="26.7.2026">sehr müde</Event>
+    <Event ID="1708" date="27.7.2026">ARBEITEN BSB</Event>
+    <Event ID="1709" date="27.7.2026">MICROSOFT SURFACE ERHALTEN 100</Event>
+    <Event ID="1710" date="28.7.2026">16:00 Wundcare gewesen</Event>
+    <Event ID="1711" date="28.8.2026">13:30 Unispital Ambulatorium</Event>
+    <Event ID="1712" date="28.7.2026">NICHT GEARBEITET</Event>
+    <Event ID="1713" date="29.7.2026">NICHT IM BSB</Event>
+    <Event ID="1714" date="29.7.2026">ICH MACH NICHTS GEGEN MèDE</Event>
+    <Event ID="1715" date="12.8.2026">KANYAR WIEDER BèRO</Event>
+    <Event ID="1716" date="31.7.2026">KEIN FEUERWERK</Event>
+    <Event ID="1717" date="31.7.2026">TOT LANGWEILIG</Event>
+    <Event ID="1718" date="31.7.2026">APPLE WARCH GEMACHT !!!!!</Event>
+    <Event ID="1719" date="1.8.2026">FCBasel Lausann mit Dogan Stad</Event>
+    <Event ID="1720" date="1.8.2026">0 - 1</Event>
+    <Event ID="1721" date="2.8.2026">BIS 14:00 geschlafen</Event>
+    <Event ID="1722" date="2.8.2026">URIN KABEL KAPUTT</Event>
+    <Event ID="1723" date="3.8.2026">10:45 BTB TAXI</Event>
+    <Event ID="1724" date="3.8.2026">URINBEUTEL GEWECHSELT</Event>
+    <Event ID="1725" date="3.8.2026">BSB GEARBEITET</Event>
+    <Event ID="1726" date="4.8.2026">HEUTE BIS 14:00 GESCHLAFEN</Event>
+    <Event ID="1727" date="4.8.2026">BSB nuchtt gegangen</Event>
+    <Event ID="1728" date="5.8.2026">BSB gearbeitet</Event>
+    <Event ID="1729" date="5.8.2026">HEISS</Event>
+    <Event ID="1730" date="5.8.2026">Doris Felix platter</Event>
+    <Event ID="1731" date="5.8.2026">50.- erhalten</Event>
+    <Event ID="1732" date="5.8.2026">cloud cluster MySQL BEZAHLT</Event>
+    <Event ID="1733" date="6.8.2026">BSB gearbeitet</Event>
+    <Event ID="1734" date="6.8.2026">DORIS WIEDER ZUHAUSE</Event>
+    <Event ID="1735" date="11.8.2026">REHAB WUNDCARE 16:00</Event>
+    <Event ID="1736" date="8.8.2026">Spitex Frau 7:00</Event>
+    <Event ID="1737" date="8.8.2026">13:00 wieder ins Bett</Event>
+    <Event ID="1738" date="8.8.2026">Bis 16:30</Event>
+    <Event ID="1739" date="7.9.2026">REHAB ZUZ 10:30</Event>
+    <Event ID="1740" date="9.8.2026">Ganzer Tag zuhause</Event>
+    <Event ID="1741" date="9.8.2026">FCB - Thun 4-1 war nicht gegan</Event>
+    <Event ID="1742" date="10.8.2026">BSB gearbeitet</Event>
+    <Event ID="1743" date="10.8.2026">JETZT SEHR Mpde</Event>
+    <Event ID="1744" date="11.8.2026">Wunde nicht gehailt</Event>
+    <Event ID="1745" date="11.8.2026">BSB gearbeitet</Event>
+    <Event ID="1746" date="13.8.2026">35 GRAD ABSAGEN</Event>
+    <Event ID="1747" date="14.8.2026">37 Grad ABSAGEN</Event>
+    <Event ID="1748" date="12.8.2026">BSB gearbeitet</Event>
+    <Event ID="1749" date="12.8.2026">Dogan hat abgesagt</Event>
+    <Event ID="1750" date="12.8.2026">ITERDISCOUT 15.- Fr Hülle LAPT</Event>
+    <Event ID="1751" date="18.8.2026">REHAB WUNDE 16:00</Event>
+    <Event ID="1752" date="13.8.2026">von 15:40 bis 18:20 geschlafen</Event>
+    <Event ID="2" date="1.2.2022">sugey meine Frau gestorben</Event>
+    <Event ID="1753" date="15.8.2026">heute zuhause ist heis</Event>
+    <Event ID="1754" date="16.8.2026">FCB-BARCELONA gegangen 2-5</Event>
+    <Event ID="1755" date="17.8.2026">APOTHEKE BAND HOLEN</Event>
+    <Event ID="1756" date="16.8.2026">ShortCute Enable = TRUE</Event>
+    <Event ID="1757" date="17.8.2026">BAND GEHOLT</Event>
+    <Event ID="1758" date="17.8.2026">BSB GEARBEITET</Event>
+    <Event ID="1759" date="18.8.2026">Dr. Berof wunde sieht besser a</Event>
+    <Event ID="1760" date="18.8.2026">UMBEDINGT SCHAUMSTOFF</Event>
+    <Event ID="1761" date="25.8.2026">REHAB Dr. Berof 16:30</Event>
+    <Event ID="1762" date="19.8.2026">FREI genommen</Event>
+    <Event ID="1764" date="21.8.2026">MeDIKAMENTE APOTHEKE</Event>
+    <Event ID="1763" date="20.8.2026">BSB GEARBEITET</Event>
+    <Event ID="1765" date="24.8.2026">ZAHNARZT 13:00 h WICHTIG</Event>
+    <Event ID="1766" date="21.8.2026">GEMACHT</Event>
+    <Event ID="1767" date="21.8.2026">BSB GEARBEITET</Event>
+    <Event ID="1768" date="22.8.2026">FCB.ZH 20:30 zuhause geschaut</Event>
+    <Event ID="1769" date="22.8.2026">programmiert LAPTOP REPARIERT</Event>
+    <Event ID="1770" date="23.8.2026">ELISA MéCHTE ZU MIR</Event>
+    <Event ID="1771" date="24.8.2026">ZAHN PROTHESE REPARIERT</Event>
+    <Event ID="1772" date="25.8.2026">SIEHT GUT AUS</Event>
+    <Event ID="1773" date="25.8.2026">TERMIN MACHEN ERGO</Event>
+    <Event ID="1774" date="26.8.2026">VIELLEICHT HILFE KOMMT</Event>
+    <Event ID="1775" date="26.8.2026">WOHNHILFE 12:00 gekommen</Event>
+    <Event ID="1776" date="26.8.2026">BSB ABGESAGT</Event>
+    <Event ID="1777" date="8.9.2026">16:00 REHAB WUNDE</Event>
+    <Event ID="1778" date="27.8.2026">BSB gearbeitet</Event>
+    <Event ID="1779" date="27.8.2026">Hasbleidy 170 gesendet</Event>
+    <Event ID="1780" date="28.8.2026">MUSS ABSAGEN</Event>
+    <Event ID="1781" date="28.8.2026">NICHT ABGESAGT</Event>
+    <Event ID="1782" date="28.8.2026">BSB GEARBEITET</Event>
+    <Event ID="1783" date="29.8.2026">Claraplatz Dogan YB-FCB 3-3</Event>
+    <Event ID="1784" date="31.8.2026">BSB gearbeitet</Event>
+    <Event ID="1785" date="31.8.2026">WASSENBODEN COIFFEUR</Event>
+    <Event ID="1787" date="1.9.2026">BSB gearbeitet</Event>
+    <Event ID="1786" date="1.9.2026">MASTERCARD 18.- Franken plus</Event>
+    <Event ID="1788" date="2.9.2026">KEIN BSB</Event>
+    <Event ID="1789" date="2.9.2026">TRAINERHOSEN 15.- Franken</Event>
+    <Event ID="1790" date="3.9.2026">BSB gearbeite WAR SUPER</Event>
+    <Event ID="1791" date="8.9.2026">URIN ABGEBEN</Event>
+    <Event ID="1792" date="3.9.2026">FCB-SION MATCH GEWESEN</Event>
+    <Event ID="1793" date="3.9.2026">1 - 2</Event>
+    <Event ID="1794" date="4.9.2026">BSB GEARBEITET</Event>
+    <Event ID="1795" date="4.9.2026">DORIS 17Y30 ITALIENER</Event>
+    <Event ID="1796" date="4.9.2026">30.- FRANKEN</Event>
+    <Event ID="1797" date="4.9.2026">Cloud Clusters BEZAHLT</Event>
+    <Event ID="1798" date="5.9.2026">Keine Medis Nacht</Event>
+    <Event ID="1799" date="5.9.2026">Konnte nicht schlafen</Event>
+    <Event ID="1800" date="5.9.2026">BIS 18.00 geschlafen</Event>
+    <Event ID="1801" date="7.9.2026">BTB BESTELLT</Event>
+    <Event ID="1802" date="6.9.2026">War ganzer Tag PC</Event>
+    <Event ID="1803" date="7.9.2026">BSB gearbeitet war OK</Event>
+    <Event ID="1804" date="8.9.2026">WUNDCARE BIS 16:30 gewartet</Event>
+    <Event ID="1805" date="8.9.2026">WEG GEGANGEN !</Event>
+    <Event ID="1806" date="15.9.2026">WUNDCARE 16:00</Event>
+    <Event ID="1807" date="9.9.2026">BSB gearbeitet war gut</Event>
+    <Event ID="1808" date="10.9.2026">BSB gearbeitet</Event>
+    <Event ID="1809" date="9.9.2026">DORIS im ökulumnad 18:00</Event>
+    <Event ID="1810" date="9.9.2026">100 Franken</Event>
+    <Event ID="1811" date="11.9.2026">FREI</Event>
+    <Event ID="1812" date="11.9.2026">TEST HEUTE</Event>
+    <Event ID="1813" date="11.9.2026">Mit Dogan Claraplatz</Event>
+    <Event ID="1814" date="11.9.2026">Interdiscout MCBOOK PRO GRATIS</Event>
+    <Event ID="1815" date="14.9.2026">urin abgabe</Event>
+    <Event ID="1816" date="16.9.2026">13:00 ZAHNARZT</Event>
+    <Event ID="1817" date="14.9.2026">GEMACHT</Event>
+    <Event ID="1818" date="14.9.2026">BSB GEARBEITET</Event>
+    <Event ID="1819" date="14.9.2026">HEINI GETROFFEN 18:00</Event>
+    <Event ID="1820" date="14.9.2026">DRUCKER PATRONE 17.00</Event>
+    <Event ID="1821" date="14.9.2026">STUHLGANG GEMACHT</Event>
+    <Event ID="1822" date="16.9.2026">WAR DORT</Event>
+    <Event ID="1823" date="15.9.2026">WAR BESSER</Event>
+    <Event ID="1824" date="15.9.2026">BSB GEARBEITET</Event>
+    <Event ID="1825" date="16.9.2026">FREI BSB</Event>
+    <Event ID="1705" date="5.2.2027">UNISPITAL 10:20 UROLOGIE</Event>
+    <Event ID="1826" date="22.9.2026">REHAB WUNDARE 16:00</Event>
+    <Event ID="1827" date="17.9.2026">BSB gearbeitet</Event>
+    <Event ID="1828" date="17.9.2026">TERMIN ZAHNARZT ABGESAGT</Event>
+    <Event ID="1829" date="18.9.2026">BSB gearbeitet</Event>
+    <Event ID="1830" date="18.9.2026">Allschwillerplatz ESSEM mit DO</Event>
+    <Event ID="1831" date="20.9.2026">AM MORGEN 8:10 Spitex IB</Event>
+    <Event ID="1832" date="20.9.2026">TICKET FCB-St.GALLEN</Event>
+    <Event ID="1833" date="20.9.2026">1 - 3 VERLOREN</Event>
+    <Event ID="1834" date="20.9.2026">ZEIT VERSCHWENDUNG</Event>
+    <Event ID="1835" date="20.9.2026">APP GESTARTET</Event>
+    <Event ID="1836" date="21.9.2026">BSB GEARBEITET</Event>
+    <Event ID="1837" date="21.9.2026">OHNE MARTIN ZUM GLUK</Event>
+    <Event ID="1838" date="21.9.2026">ANTIBIOTIJM GENOMMEN</Event>
+    <Event ID="1839" date="22.9.2026">Dort und abgesagt</Event>
+    <Event ID="1840" date="22.9.2026">BSB gearbeitet</Event>
+    <Event ID="1841" date="22.9.2026">Martin NICHT DA</Event>
+    <Event ID="1842" date="23.9.2026">DORT GEWESEN SCHNELL</Event>
+    <Event ID="1843" date="24.9.2026">ZAHNARZT 14:45</Event>
+    <Event ID="1844" date="26.9.2026">9:10 MIT HEINI VERKàRSMUSEUM</Event>
+    <Event ID="1845" date="26.9.2026">LUZERN</Event>
+    <Event ID="1846" date="26.9.2026">KOPF MèDE</Event>
+    <Event ID="1847" date="27.9.2026">nur zuhause</Event>
+    <Event ID="1848" date="28.9.2026">BSB gearbeitet</Event>
+    <Event ID="1849" date="28.9.2026">KURZ DOGAN KIOSK</Event>
+    <Event ID="1850" date="29.9.2026">Geschlafen bis 13:30</Event>
+    <Event ID="1851" date="29.9.2026">BSB ABGESAGT</Event>
+  </Events>
+</Calendar>
